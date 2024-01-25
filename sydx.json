@@ -957,6 +957,52 @@
       "jar": "./txt/spider.txt",
       "ext": "./json/中国蓝光网.json"  
     },
+      {
+      "key": "csp_Dm84",
+      "name": "🚌┃动漫巴士┃",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_Ying",
+      "name": "💮┃樱花动漫┃",
+      "type": 3,
+      "api": "csp_Ying",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_Ysj",
+      "name": "🎀┃异界动漫┃",
+      "type": 3,
+      "api": "csp_Ysj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_Anime1",
+      "name": "👺┃日本动漫┃",
+      "type": 3,
+      "api": "csp_Anime1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "去看吧",
+      "name": "👺┃去看动漫┃",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/去看吧.json"
+    },
     {
       "key": "一起看 ",
       "name": "🈴┃一起App┃",
