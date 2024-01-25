@@ -416,7 +416,7 @@
     "type":3,
     "api":"./api/drpy2.min.js",
     "ext":"./js/jianpian.js",
-    "jar": "./jars/YSC.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"
+    "jar": "./jars/syys.jar"
     },
     {
       "key": "348影视",
@@ -427,7 +427,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/348.json",
-      "jar": "./jars/YSC.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"
+      "jar": "./jars/syys.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"
     },
     {
       "key": "子子影视",
@@ -438,7 +438,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/zizi.json",
-      "jar": "./jars/YSC.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"
+      "jar": "./jars/syys.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"
     },
     {
       "key": "耐看点播",
@@ -450,7 +450,7 @@
       "filterable": 1,
       "playerType": "1",
       "ext": "./json/naikan.json",
-      "jar": "./jars/YSC.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"
+      "jar": "./jars/syys.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"
     },
     {
       "key": "csp_Voflix",
@@ -461,7 +461,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/voflix.json",
-      "jar": "./jars/YSC.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"
+      "jar": "./jars/syys.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"
     },
         {
       "key": "七年影视",
@@ -473,7 +473,7 @@
       "filterable": 1,
       "playerType": "1",
       "ext": "./json/qinian.json",
-      "jar": "./jars/YSC.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"
+      "jar": "./jars/syys.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"
     },
     {
       "key": "畅梦",
@@ -481,7 +481,7 @@
       "type": 3,
       "api": "./api/apiv203drpy2.min.js",
       "ext": "./js/changmeng.js",
-      "jar": "./jars/YSC.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"
+      "jar": "./jars/syys.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"
     },
     {
       "key": "77",
