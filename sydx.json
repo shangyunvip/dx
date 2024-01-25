@@ -265,17 +265,6 @@
       "ext": "./json/PG推送.json",
       "timeout": 60
     }, 
-   {
-      "key":"七夜",
-      "name":"4K🗃️┃七夜fm┃",
-      "type":3,
-      "api":"csp_Dovx",
-      "jar":"./jars/fm.jar",
-      "searchable":1,
-      "filterable":1,
-      "changeable":0,
-      "ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
-    },
     {
       "key": "七夜弹幕版",
       "name": "4K🗃️┃七夜弹幕┃",
@@ -290,19 +279,7 @@
       },
       "jar": "./jars/danmu.jar"
     }, 
-    {
-      "key": "喵狸",
-      "name": "4K🗃️┃喵狸🔍┃",
-      "type": 3,
-      "api": "csp_PanSou",
-      "jar":"./jars/sypg.jar",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./json/PG推送.json",
-      "timeout": 60
-    },
+
     {
       "key": "YiSo",
       "name": "4K🗃️┃易搜🔍┃",
