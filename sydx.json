@@ -1003,6 +1003,80 @@
       "filterable": 1,
       "ext": "./json/去看吧.json"
     },
+       {
+      "key": "csp_Yj1211",
+      "name": "🧜┃网红直播┃",
+      "type": 3,
+      "api": "csp_Yj1211",
+      "searchable": 0,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "Aid",
+      "name": "🚑┃急救教学┃",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
+    },
+        {
+      "key": "88js",
+      "name": "⚽ ┃8 8看球┃",
+      "type": 3,
+      "api": "./api/apiv203drpy2.min.js",
+      "ext": "./js/88看球.js",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "csp_qiumi",
+      "name": "⚽┃Jrs球迷┃",
+      "type": 3,
+      "api": "./api/apiv203drpy2.min.js",
+      "ext": "./js/jrk.js",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "csp_310直播",
+      "name": "⚽┃310看球┃",
+      "type": 3,
+      "api": "./api/apiv203drpy2.min.js",
+      "ext": "./js/310直播.js",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "csp_XPath_企鹅体育",
+      "name": "🐧┃企鹅体育┃",
+      "type": 3,
+      "api": "csp_XPath",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./json/企鹅直播.json"
+    },
     {
       "key": "一起看 ",
       "name": "🈴┃一起App┃",
