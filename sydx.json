@@ -300,7 +300,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/PG推送751.json",
+      "ext": "./json/PG推送.json",
       "timeout": 60
     },
     {
