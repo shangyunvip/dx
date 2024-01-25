@@ -1505,7 +1505,7 @@
       }
     },
     {
-      "name": "推荐",
+      "name": "备用",
       "type": 1,
       "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
       "ext": {
