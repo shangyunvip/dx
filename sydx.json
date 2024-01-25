@@ -43,7 +43,7 @@
      "name": "🦋｜CCTV电影｜",
      "type": 3,
      "api":"py_cctv",
-     "jar": "./jars/syys.jar",
+     "jar": "./jars/py.jar",
      "searchable": 0,
      "quickSearch": 0,
      "filterable": 0,
