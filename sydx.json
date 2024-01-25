@@ -1077,6 +1077,73 @@
       "changeable": 0,
       "ext": "./json/企鹅直播.json"
     },
+        {
+      "key": "酷奇js",
+      "name": "🎵┃酷奇MV┃",
+      "type": 3,
+      "api": "./api/apiv203drpy2.min.js",
+      "ext": "./js/酷奇MV.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "MTV",
+      "name": "🎵┃明星MV┃",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./json/MTV.json"
+    },
+    {
+      "key": "虎牙直播js",
+      "name": "🐯┃虎牙直播┃",
+      "type": 3,
+      "api": "./api/apiv203drpy2.min.js",
+      "ext": "./js/虎牙直播.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "csp_XYQBiu_斗鱼",
+      "name": "🐟┃斗鱼直播┃",
+      "type": 3,
+      "api": "./api/apiv203drpy2.min.js",
+      "ext": "./js/斗鱼直播.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "csp_聚短视频",
+      "name": "📽️┃聚短视频┃",
+      "type": 3,
+      "api": "./api/apiv203drpy2.min.js",
+      "ext": "./js/短视频.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+
     {
       "key": "一起看 ",
       "name": "🈴┃一起App┃",
