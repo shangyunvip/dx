@@ -1309,14 +1309,14 @@
       "ext": "./json/哔哩美食.json"
     },
     {
-      "key": "qipai",
-      "name": " 🅱️┃qipai合集┃",
+      "key": "blqp",
+      "name": " 🅱️┃qp合集┃",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/哔哩qipai.json"
+      "ext": "./json/哔哩qp.json"
     },
     {
       "key": "一起看 ",
