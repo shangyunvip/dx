@@ -1440,7 +1440,7 @@
       }
     },
     {
-      "name": "瓜",
+      "name": "-云解析-",
       "type": 1,
       "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
       "ext": {
@@ -1466,8 +1466,36 @@
         ]
       }
     },
+        {
+      "name": "亮亮",
+      "type": 0,
+      "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "rx",
+          "ltnb",
+          "bilibili",
+          "1905",
+          "xigua"
+        ]
+      }
+    },
+
        {
-      "name": "瓜",
+      "name": "搜狐",
       "type": 1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
       "ext": {
@@ -1491,6 +1519,7 @@
         }
       }
     },
+
           {
       "name": "聚合",
       "type": 3,
