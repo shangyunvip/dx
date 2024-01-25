@@ -188,17 +188,7 @@
       },
       "jar": "./jars/danmu.jar"
     },
-    {
-      "key":"易搜fm",
-      "name":"4K🗃️┃易搜fm┃",
-      "type":3,
-      "api":"csp_YiSo",
-      "jar":"./jars/fm.jar",
-      "searchable":1,
-      "filterable":1,
-      "changeable":0,
-      "ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
-    },
+
     {
       "key": "yumeng",
       "name": "️4K🗃️┃云梦🔍┃",
@@ -325,18 +315,7 @@
       "ext": "./json/PG推送.json",
       "timeout": 60
     },
-    {
-      "key":"云搜",
-      "name": "4K🗃️┃up云搜fm┃",
-      "type":3,
-      "api":"csp_UpYun",
-      "jar":"./jars/fm.jar",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "changeable":0,
-      "ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
-    },
+
        {
       "key": "哔嘀",
       "name": "🎞️┃哔嘀💘💘┃",
