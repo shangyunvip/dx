@@ -823,7 +823,58 @@
       "filterable": 1,
       "changeable": 0
     },
+    {
+            "key": "csp_djtv",
+            "name": "🐲┃短剧一🐲┃",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "jar": "./jars/dj.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/短剧.json"
+        },
 
+           {
+            "key": "横版影院",
+            "name": "🐲┃短剧二🐲┃",
+            "type": 1,
+            "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "短剧"
+            ],
+      "jar": "./jars/xbpq新版.jar"
+        },
+        {
+            "key": "csp_XBPQ_aoaotv",
+            "name": "🐲┃短剧三🐲┃",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
+                "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
+            },
+      "jar": "./jars/dj.jar"
+        },  
+
+    {
+      "key": "csp_Bili短剧",
+      "name": "🐲┃哔哩短剧┃",
+      "api": "csp_Bili",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./txt/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
+      "ext": "./json/Bili短剧.json"
+    },
     {
       "key": "一起看 ",
       "name": "🈴┃一起App┃",
