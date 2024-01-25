@@ -1352,7 +1352,7 @@
 
 "parses": [
        {
-      "name": "爱优腾1",
+      "name": "爱优腾",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
@@ -1398,7 +1398,7 @@
       }
     },
         {
-      "name": "爱优腾2",
+      "name": "爱芒瓜",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url=",
       "ext": {
@@ -1440,7 +1440,7 @@
       }
     },
     {
-      "name": "备用",
+      "name": "瓜",
       "type": 1,
       "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
       "ext": {
@@ -1458,7 +1458,6 @@
           "乐视",
           "mgtv",
           "芒果",
-          "imgo",
           "rx",
           "ltnb",
           "bilibili",
@@ -1467,10 +1466,8 @@
         ]
       }
     },
-      {"name":"-云解析-","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
-
        {
-      "name": "搜狐",
+      "name": "瓜",
       "type": 1,
       "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
       "ext": {
@@ -1494,99 +1491,6 @@
         }
       }
     },
-
-       {
-      "name": "亮亮",
-      "type": 0,
-      "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
-      "ext": {
-        "flag": [
-          "youku",
-          "YouKu",
-          "优酷",
-          "优酷视频",
-          "iqiyi",
-          "IQiYi",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "奇艺视频",
-          "qq",
-          "imgo",
-          "腾讯",
-          "芒果",
-          "企鹅",
-          "腾讯视频",
-          "bilibili",
-          "哔哩",
-          "哔哩哔哩",
-          "letv",
-          "leshi",
-          "mgtv",
-          "LS",
-          "rx",
-          "ltnb",
-          "乐视视频",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "SoHu",
-          "1905",
-          "xigua",
-          "搜狐",
-          "搜狐视频"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-     {
-      "name": "路飞解析",
-      "type": 1,
-      "url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url=",
-      "ext": {
-        "flag": [
-          "youku",
-          "YouKu",
-          "优酷",
-          "优酷视频",
-          "iqiyi",
-          "IQiYi",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "奇艺视频",
-          "qq",
-          "imgo",
-          "腾讯",
-          "芒果",
-          "企鹅",
-          "腾讯视频",
-          "bilibili",
-          "哔哩",
-          "哔哩哔哩",
-          "letv",
-          "leshi",
-          "mgtv",
-          "LS",
-          "rx",
-          "ltnb",
-          "乐视视频",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "SoHu",
-          "1905",
-          "xigua",
-          "搜狐",
-          "搜狐视频"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
           {
       "name": "聚合",
       "type": 3,
@@ -1601,41 +1505,6 @@
       "name": "Json轮询",
       "type": 2,
       "url": "Sequence"
-    },
-        {
-      "name": "神秘的哥哥们",
-      "type": 1,
-      "url": "http://api.888484.xyz/神秘哥哥/super.php?v=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "tucheng",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "yzm",
-          "aliyun",
-          "RJuMao",
-          "bilibili",
-          "1905",
-          "xinvip",
-          "XAL",
-          "qiqi",
-          "XALS",
-          "YuMi-vip"
-        ]
-      }
     }
   ],
 
