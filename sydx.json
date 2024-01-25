@@ -1308,7 +1308,16 @@
       "filterable": 1,
       "ext": "./json/哔哩美食.json"
     },
-
+    {
+      "key": "棋牌",
+      "name": " 🅱️┃棋牌合集┃",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./json/哔哩棋牌.json"
+    },
     {
       "key": "一起看 ",
       "name": "🈴┃一起App┃",
