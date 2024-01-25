@@ -419,7 +419,7 @@
 	"api": "csp_Jianpian",
 	"searchable": 1,
 	"changeable": 1,
-	"ext": "./jon/jianpian.json$$$1",
+	"ext": "./json/jianpian.json$$$1",
 	"timeout":60,
     "jar": "./jars/sypg.jar"
     },
