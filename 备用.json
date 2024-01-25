@@ -35,7 +35,7 @@
      "searchable": 0,
      "quickSearch": 0,
      "filterable": 0,
-     "ext": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/sydanxian/master/py/py_cctv.py"
+     "ext": "https://atomgit.com/shangyunvip/yscdx/raw/master/py/py_cctv.py"
     },
 
     {
@@ -68,7 +68,7 @@
             "name": "😎┃优酷官源┃",
             "type": 3,
             "api": "./api/apiv203drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/sydanxian/master/js/优酷.js"
+            "ext": "https://atomgit.com/shangyunvip/yscdx/raw/master/js/优酷.js"
         },
         {
             "key": "drpy_js_腾云驾雾",
@@ -1026,7 +1026,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./json/企鹅直播.json"
+      "ext": "https://atomgit.com/shangyunvip/yscdx/raw/master/json/企鹅直播.json"
     },
         {
       "key": "酷奇js",
@@ -1061,7 +1061,7 @@
       "name": "🐯┃虎牙直播┃",
       "type": 3,
       "api": "./api/apiv203drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/sydanxian/master/js/虎牙直播.js",
+      "ext": "https://atomgit.com/shangyunvip/yscdx/blob/master/js/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -1075,7 +1075,7 @@
       "name": "🐟┃斗鱼直播┃",
       "type": 3,
       "api": "./api/apiv203drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/sydanxian/master/js/斗鱼直播.js",
+      "ext": "https://ghproxy.net/https://atomgit.com/shangyunvip/yscdx/raw/master/js/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -1143,7 +1143,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/sydanxian/master/json/bilibili.json"
+      "ext": "https://atomgit.com/shangyunvip/yscdx/raw/master/json/bilibili.json"
     },
     {
       "key": "Biliych",
@@ -1257,7 +1257,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/sydanxian/master/json/哔哩美食.json"
+      "ext": "https://atomgit.com/shangyunvip/yscdx/raw/master/json/哔哩美食.json"
     },
     {
       "key": "blqp",
@@ -1267,7 +1267,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/sydanxian/master/json/%E5%93%94%E5%93%A9qp.json"
+      "ext": "https://atomgit.com/shangyunvip/yscdx/raw/master/json/blqp.json"
     },
     {
       "key": "一起看 ",
