@@ -411,12 +411,17 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {"key":"荐片",
-    "name":"🎞️┃荐片秒播┃",
-    "type":3,
-    "api":"./api/drpy2.min.js",
-    "ext":"./js/jianpian.js",
-    "jar": "./jars/syys.jar"
+
+	{
+	"key": "賤賤",
+	"name": "🎞️┃荐片秒播┃",
+	"type": 3,
+	"api": "csp_Jianpian",
+	"searchable": 1,
+	"changeable": 1,
+	"ext": "./jon/jianpian.json$$$1",
+	"timeout":60,
+    "jar": "./jars/sypg.jar"
     },
     {
       "key": "348影视",
