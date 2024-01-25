@@ -1143,7 +1143,43 @@
       "quickSearch": 0,
       "changeable": 0
     },
-
+    {
+      "key": "Zhaozy",
+      "name": "🐺┃找资源搜┃索",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$输入自己的$$$账号密码"
+    },
+    {
+      "key": "push_agent",
+      "name": "🛴┃手机推送┃",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
+    },
+    {
+      "key": "csp_Nbys",
+      "name": "🛫┃泥巴飞🛫┃",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_trj",
+      "name": "🛫┃唐人街飞┃",
+      "type": 3,
+      "api": "csp_Tangrenjie",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
     {
       "key": "一起看 ",
       "name": "🈴┃一起App┃",
