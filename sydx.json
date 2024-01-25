@@ -37,17 +37,7 @@
      "filterable": 0,
      "ext": "./py/py_cctv.py"
     },
-        {
-      "key": "py_cctv_少儿",
-      "name": "♍｜CCTV少儿｜",
-      "type": 3,
-      "api": "py_cctv_full",
-      "jar": "./jars/HeChengChaXiu.jar",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./py/py_央视少儿.py"
-    },
+
     {
       "key":"m1905",
      "name": "🦋｜CCTV电影｜",
