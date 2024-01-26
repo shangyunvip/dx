@@ -49,48 +49,6 @@
      "filterable": 0,
      "ext": "./py/m1905.py"
     },
-            {
-            "key": "drpy_js_360影视",
-            "name": "3️⃣┃360官源┃",
-            "type": 3,
-            "api": "./api/apiv203drpy2.min.js",
-            "ext": "./js/360影视.js"
-        },
-        {
-            "key": "drpy_js_奇珍异兽",
-            "name": "🥝┃奇艺官源┃",
-            "type": 3,
-            "api": "./api/apiv203drpy2.min.js",
-            "ext": "./js/奇珍异兽.js"
-        },
-        {
-            "key": "drpy_js_优酷",
-            "name": "😎┃优酷官源┃",
-            "type": 3,
-            "api": "./api/apiv203drpy2.min.js",
-            "ext": "https://atomgit.com/shangyunvip/yscdx/raw/master/js/优酷.js"
-        },
-        {
-            "key": "drpy_js_腾云驾雾",
-            "name": "♨┃腾讯官源┃",
-            "type": 3,
-            "api": "./api/apiv203drpy2.min.js",
-            "ext": "./js/腾云驾雾.js"
-        },
-        {
-            "key": "drpy_js_百忙无果",
-            "name": "🥭┃芒果官源┃",
-            "type": 3,
-            "api": "./api/apiv203drpy2.min.js",
-            "ext": "./js/百忙无果.js"
-        },
-        {
-            "key": "drpy_js_菜狗",
-            "name": "🐶┃搜狗官源┃",
-            "type": 3,
-            "api": "./api/apiv203drpy2.min.js",
-            "ext": "./js/菜狗.js"
-        },
                 {
             "key": "zy_新浪",
             "name": "🏄🏻┃新浪┃资源",
