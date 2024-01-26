@@ -35,7 +35,7 @@
      "searchable": 0,
      "quickSearch": 0,
      "filterable": 0,
-     "ext": "https://atomgit.com/shangyunvip/yscdx/raw/master/py/py_cctv.py"
+     "ext": "https://atomgit.com/shangyunvip/shangyunvipdc/raw/master/py/py_cctv.py"
     },
 
     {
@@ -90,6 +90,36 @@
             "type": 3,
             "api": "./api/apiv203drpy2.min.js",
             "ext": "./js/菜狗.js"
+        },
+                {
+            "key": "zy_新浪",
+            "name": "🏄🏻┃新浪┃资源",
+            "type": 1,
+            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "categories": [
+                "动漫",
+                "综艺",
+                "纪录片",
+                "动作片",
+                "爱情片",
+                "科幻片",
+                "战争片",
+                "剧情片",
+                "恐怖片",
+                "喜剧片",
+                "大陆剧",
+                "港澳剧",
+                "台湾剧",
+                "欧美剧",
+                "动漫电影",
+                "韩剧",
+                "日剧",
+                "泰剧",
+                "体育"
+            ]
         },
             {
       "key": "玩偶哥哥",
@@ -1026,14 +1056,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://atomgit.com/shangyunvip/yscdx/raw/master/json/企鹅直播.json"
+      "ext": "https://atomgit.com/shangyunvip/shangyunvipdc/raw/master/json/%E4%BC%81%E9%B9%85%E4%BD%93%E8%82%B2.json"
     },
         {
       "key": "酷奇js",
       "name": "🎵┃酷奇MV┃",
       "type": 3,
       "api": "./api/apiv203drpy2.min.js",
-      "ext": "./js/酷奇MV.js",
+      "ext": "https://atomgit.com/shangyunvip/shangyunvipdc/raw/master/js/%E9%85%B7%E5%A5%87MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -1056,20 +1086,18 @@
       "changeable": 0,
       "ext": "./json/MTV.json"
     },
-    {
-      "key": "虎牙直播js",
-      "name": "🐯┃虎牙直播┃",
-      "type": 3,
-      "api": "./api/apiv203drpy2.min.js",
-      "ext": "https://atomgit.com/shangyunvip/yscdx/blob/master/js/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.755
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
+
+            {
+            "key": "py_huya",
+            "name": "🐯┃虎牙直播┃",
+            "type": 3,
+            "api": "py_huya",
+            "jar": "./jars/py.jar",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./py/pyhuya.py"
+        },
     {
       "key": "csp_XYQBiu_斗鱼",
       "name": "🐟┃斗鱼直播┃",
@@ -1143,7 +1171,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://atomgit.com/shangyunvip/yscdx/raw/master/json/bilibili.json"
+      "ext": "https://atomgit.com/shangyunvip/shangyunvipdc/raw/master/json/bilibili.json"
     },
     {
       "key": "Biliych",
@@ -1257,7 +1285,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://atomgit.com/shangyunvip/yscdx/raw/master/json/哔哩美食.json"
+      "ext": "https://atomgit.com/shangyunvip/shangyunvipdc/raw/master/json/%E5%93%94%E5%93%A9%E7%BE%8E%E9%A3%9F.json"
     },
     {
       "key": "blqp",
@@ -1267,7 +1295,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://atomgit.com/shangyunvip/yscdx/raw/master/json/blqp.json"
+      "ext": "https://atomgit.com/shangyunvip/shangyunvipdc/raw/master/json/blqp.json"
     },
     {
       "key": "一起看 ",
