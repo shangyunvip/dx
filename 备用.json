@@ -130,6 +130,36 @@
       "changeable": 1,
       "ext": "https://www.libvio.pro/"
     },
+    {
+      "key": "Auete",
+      "name": "🎦┃奥特直连┃",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://haozhansou.com/"
+    },
+    {
+      "key": "加速器",
+      "name": "🎦┃加速直连┃",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod",
+      "jar": "./jars/syog.jar"
+    },
+    {
+      "key": "360_spider",
+      "name": "🎦┃360直连┃",
+      "type": 3,
+      "api": "csp_SP360",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "jar": "./jars/syog.jar"
+    },
      {"key": "哔嘀","name": "🎦┃哔嘀💘💘┃","type": 3,"api": "csp_Bdys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jars/syog.jar"},    
      {"key": "348影视","name": "🎦┃348秒播┃","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/348.json","jar": "./jars/syys.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"},
      {"key": "子子影视","name": "🎦┃子子秒播┃","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/zizi.json","jar": "./jars/syys.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"},
@@ -161,6 +191,16 @@
       "api": "./api/apiv203drpy2.min.js",
       "ext": "./js/changmeng.js",
       "jar": "./jars/syys.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"
+    },
+           {
+      "key": "csp_Nmys",
+      "name": "👨‍🌾┃农民直连┃",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "./json/nmys.json"
     },
     {"key": "南坊","name": "⬇️┃南坊App┃","type": 3,"api": "csp_AppMao","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="},
      {"key": "csp_XYQHikerdyx","name": "🎊┃电影港🎊┃","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jars/sx.jar","ext": " ./json/电影港.json"},
@@ -234,46 +274,7 @@
       "changeable": 1,
       "ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"
     },
-    {
-      "key": "csp_Nmys",
-      "name": "👨‍🌾┃农民直连┃",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./json/nmys.json"
-    },
-    {
-      "key": "Auete",
-      "name": "🏝┃奥特直连┃",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://haozhansou.com/"
-    },
-    {
-      "key": "加速器",
-      "name": "🏝┃加速直连┃",
-      "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod",
-      "jar": "./jars/syog.jar"
-    },
-    {
-      "key": "360_spider",
-      "name": "🏝┃360直连┃",
-      "type": 3,
-      "api": "csp_SP360",
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "jar": "./jars/syog.jar"
-    },
+ 
     {
       "key": "csp_SP33",
       "name": "📺┃三三解析┃",
