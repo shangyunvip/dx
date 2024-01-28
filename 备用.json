@@ -430,7 +430,7 @@
      {"key": "YiSo","name": "4K📀┃易搜🔍┃","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"},
      {"key": "yumeng","name": "️4K📀┃云梦🔍┃","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt","jar": "./jars/syog.jar"},
      {"key": "PanSearch","name": "4K📀┃PanSearch┃","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd","jar": "./jars/sy.jar;md5;be6121b5c37471b191114027123912d2"},
-     {"key": "阿里|运输","name": "4K📀┃影视车┃","type": 3,"api": "csp_YunShu","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"ext": "./json/ali.json","jar": "./jars/py1.jar"},
+     {"key": "阿里|运输","name": "4K📀┃影视车┃","type": 3,"api": "csp_YunShu","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"ext": "./json/ali.json","jar": "./jars/syys.jar"},
      //磁力资源区
      {"key": "drpy_js_荐片","name": "🛩️┃荐片影视┃","type": 3,"api": "./api/apiv203drpy2.min.js","ext": "./js/荐片.js"},
      {"key": "新6V","name": "🧲┃新6V磁力┃","type": 3,"api": "csp_SixV","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://www.xb6v.com/"},
