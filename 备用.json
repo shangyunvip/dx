@@ -473,8 +473,7 @@
      {"key":"盘搜","name": "4K📀┃盘搜弹幕┃","type": 3,"api": "csp_PanSou","searchable": 1,"filterable": 0,"changeable": 1,"ext": {"token": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd","danmu": true},"jar": "./jars/danmu.jar"},
      {"key": "七夜弹幕版","name": "4K📀┃七夜弹幕┃","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 1,"ext": {"token": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd","danmu": true},"jar": "./jars/danmu.jar"}, 
      {"key": "yumeng","name": "️4K📀┃云梦🔍┃","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt","jar": "./jars/syog.jar"},
-     {"key": "PanSearch","name": "4K📀┃PanSearch┃","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd","jar": "./jars/sy.jar;md5;be6121b5c37471b191114027123912d2"},
-     {"key": "盘搜索网盘","name": "盘搜🚢网盘","type": 3,"api": "csp_PanSearch","jar": "./jars/sypg.jar","changeable": 0,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/PG推送.json","timeout": 30
+     {"key": "盘搜索网盘","name": "4K📀┃盘搜网盘┃","type": 3,"api": "csp_PanSearch","jar": "./jars/sypg.jar","changeable": 0,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/PG推送.json","timeout": 30
     },
      //磁力资源区
      {"key": "drpy_js_荐片","name": "🛩️┃荐片影视┃","type": 3,"api": "./api/apiv203drpy2.min.js","ext": "./js/荐片.js"},
