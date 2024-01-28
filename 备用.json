@@ -1024,38 +1024,7 @@
       "playerType": "2"
     },
 
-    {
-      "key": "drpy_js_喜马拉雅",
-      "name": "听书 | 喜马拉雅[js]",
-      "type": 3,
-      "api": "./api/apiv203drpy2.min.js",
-      "ext": "./js/喜马拉雅.js",
-      "playerType": "2"
-    },
-    {
-      "key": "drpy_js_六月听书",
-      "name": "听书 | 六月听书[js]",
-      "type": 3,
-      "api": "./api/apiv203drpy2.min.js",
-      "ext": "./js/六月听书.js",
-      "playerType": "2"
-    },
-    {
-      "key": "drpy_js_博看听书",
-      "name": "听书 | 博看听书[js]",
-      "type": 3,
-      "api": "./api/apiv203drpy2.min.js",
-      "ext": "./js/博看听书.js",
-      "playerType": "2"
-    },
-    {
-      "key": "drpy_js_海洋听书",
-      "name": "听书 | 海洋听书[js]",
-      "type": 3,
-      "api": "./api/apiv203drpy2.min.js",
-      "ext": "./js/海洋听书.js",
-      "playerType": "2"
-    },
+
     {
       "key": "csp_Nbys",
       "name": "🛫┃泥巴飞🛫┃",
