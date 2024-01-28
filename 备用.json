@@ -52,7 +52,7 @@
         },
     {
       "key": "Czsapp",
-      "name": "🌩️┃厂长直连┃",
+      "name": "🎦┃厂长直连┃",
       "type": 3,
       "api": "csp_Czsapp",
       "playerType": 2,
@@ -63,7 +63,7 @@
     },
     {
       "key": "Xinsj",
-      "name": "🌩️┃视觉直连┃",
+      "name": "🎦┃视觉直连┃",
       "type": 3,
       "api": "csp_Xinsj",
       "searchable": 1,
@@ -73,7 +73,7 @@
     },
     {
       "key": "毛驴",
-      "name": "🌩️┃毛驴直连┃",
+      "name": "🎦┃毛驴直连┃",
       "type": 3,
       "api": "csp_MLYS",
       "searchable": 1,
@@ -83,7 +83,7 @@
     },
     {
       "key": "九六",
-      "name": "🌩️┃九六直连┃",
+      "name": "🎦┃九六直连┃",
       "type": 3,
       "api": "csp_Cs1369",
       "playerType": 2,
@@ -93,7 +93,7 @@
     },
     {
       "key": "zxzj",
-      "name": "🌩️┃在线直连┃",
+      "name": "🎦┃在线直连┃",
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
@@ -103,7 +103,7 @@
     },
     {
       "key": "DiDuan",
-      "name": "🌩️┃低端直连┃",
+      "name": "🎦┃低端直连┃",
       "type": 3,
       "api": "csp_Ddrk",
       "playerType": "2",
@@ -113,7 +113,7 @@
     },
     {
       "key": "csp_Bttoo",
-      "name": "🌩️┃比特直连┃",
+      "name": "🎦┃比特直连┃",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
@@ -122,7 +122,7 @@
     },
     {
       "key": "Lib",
-      "name": "🌟┃利播直连┃",
+      "name": "🎦┃利播直连┃",
       "type": 3,
       "api": "csp_Libvio",
       "searchable": 1,
@@ -130,11 +130,11 @@
       "changeable": 1,
       "ext": "https://www.libvio.pro/"
     },
-     {"key": "哔嘀","name": "🎞️┃哔嘀💘💘┃","type": 3,"api": "csp_Bdys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jars/syog.jar"},    
-     {"key": "348影视","name": "🎞️┃348秒播┃","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/348.json","jar": "./jars/syys.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"},
-     {"key": "子子影视","name": "🎞️┃子子秒播┃","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/zizi.json","jar": "./jars/syys.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"},
-     {"key": "耐看点播","name": "🎞️┃耐看秒播┃","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": "1","ext": "./json/naikan.json","jar": "./jars/syys.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"},
-     {"key": "csp_Voflix","name": "🎞️┃Voflix🌩️┃","type": 3,
+     {"key": "哔嘀","name": "🎦┃哔嘀💘💘┃","type": 3,"api": "csp_Bdys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jars/syog.jar"},    
+     {"key": "348影视","name": "🎦┃348秒播┃","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/348.json","jar": "./jars/syys.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"},
+     {"key": "子子影视","name": "🎦┃子子秒播┃","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/zizi.json","jar": "./jars/syys.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"},
+     {"key": "耐看点播","name": "🎦┃耐看秒播┃","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": "1","ext": "./json/naikan.json","jar": "./jars/syys.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"},
+     {"key": "csp_Voflix","name": "🎦┃Voflix🎦┃","type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -144,7 +144,7 @@
     },
         {
       "key": "七年影视",
-      "name": "🎞️┃七年影视┃",
+      "name": "🎦┃七年影视┃",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -156,7 +156,7 @@
     },
     {
       "key": "畅梦",
-      "name": "🎞️┃畅梦秒播┃",
+      "name": "🎦┃畅梦秒播┃",
       "type": 3,
       "api": "./api/apiv203drpy2.min.js",
       "ext": "./js/changmeng.js",
