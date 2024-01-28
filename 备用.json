@@ -233,16 +233,6 @@
     },
 
 
-
-
-    {
-      "key": "drpy_js_荐片",
-      "name": "🎞️┃荐片影视┃",
-      "type": 3,
-      "api": "./api/apiv203drpy2.min.js",
-      "ext": "./js/荐片.js"
-    },
-
        {
       "key": "哔嘀",
       "name": "🎞️┃哔嘀💘💘┃",
@@ -743,6 +733,14 @@
       "jar": "./txt/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
       "ext": "./json/Bili短剧.json"
     },
+        {
+      "key": "drpy_js_荐片",
+      "name": "🎞️┃荐片影视┃",
+      "type": 3,
+      "api": "./api/apiv203drpy2.min.js",
+      "ext": "./js/荐片.js"
+    },
+
            {
       "key": "新6V",
       "name": "🧲┃新6V磁力┃",
@@ -1010,23 +1008,60 @@
       "changeable": 0
     },
     {
-      "key": "Zhaozy",
-      "name": "🐺┃找资源搜┃索",
+      "key": "drpy_js_蜻蜓FM",
+      "name": "广播 | 蜻蜓FM[js]",
       "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$输入自己的$$$账号密码"
+      "api": "./api/apiv203drpy2.min.js",
+      "ext": "./js/蜻蜓FM.js",
+      "playerType": "2"
     },
     {
-      "key": "push_agent",
-      "name": "🛴┃手机推送┃",
+      "key": "drpy_js_相声随身听",
+      "name": "相声 | 相声随身听[js]",
       "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
+      "api": "./api/apiv203drpy2.min.js",
+      "ext": "./js/相声随身听.js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_i275听书",
+      "name": "听书 | i275听书[js]",
+      "type": 3,
+      "api": "./api/apiv203drpy2.min.js",
+      "ext": "./js/i275听书.js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_喜马拉雅",
+      "name": "听书 | 喜马拉雅[js]",
+      "type": 3,
+      "api": "./api/apiv203drpy2.min.js",
+      "ext": ".//js/喜马拉雅.js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_六月听书",
+      "name": "听书 | 六月听书[js]",
+      "type": 3,
+      "api": "./api/apiv203drpy2.min.js",
+      "ext": "./js/六月听书.js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_博看听书",
+      "name": "听书 | 博看听书[js]",
+      "type": 3,
+      "api": "./api/apiv203drpy2.min.js",
+      "ext": "./js/博看听书.js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_海洋听书",
+      "name": "听书 | 海洋听书[js]",
+      "type": 3,
+      "api": "./api/apiv203drpy2.min.js",
+      "ext": "./js/海洋听书.js",
+      "playerType": "2"
     },
     {
       "key": "csp_Nbys",
