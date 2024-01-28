@@ -233,6 +233,17 @@
     },
 
 
+
+
+    {
+      "key": "drpy_js_荐片",
+      "name": ""🎞️┃荐片影视┃",
+      "type": 3,
+      "api": "./api/apiv203drpy2.min.js",
+      "ext": "./js/荐片.js"
+    },
+
+
        {
       "key": "哔嘀",
       "name": "🎞️┃哔嘀💘💘┃",
@@ -275,17 +286,7 @@
       "changeable": 1
     },
 
-	{
-	"key": "賤賤",
-	"name": "🎞️┃荐片秒播┃",
-	"type": 3,
-	"api": "csp_Jianpian",
-	"searchable": 1,
-	"changeable": 1,
-	"ext": "./json/jianpian.json$$$1",
-	"timeout":60,
-          "jar": "./jars/syys.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"
-    },
+
     {
       "key": "348影视",
       "name": "🎞️┃348秒播┃",
