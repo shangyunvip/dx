@@ -261,6 +261,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar": "./jars/sx.jar"
       "ext": " ./json/电影港.json"
     },
     {
