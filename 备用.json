@@ -23,7 +23,6 @@
   "sites": [
      {"key": "豆豆","name": "🧧┃豆瓣┃公众号：殇云分享🧧","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
      {"key": "csp_KungFu404","name": "🗂️┃阿里设置┃","type": 3,"api": "csp_KungFu404","searchable": 0,"filterable": 0,"changeable": 0,"jar": "./jars/alibaba.jar","ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"},
-     {"key": "配置中心","name": "🏬┃云盘配置┃","type": 3,"api": "csp_Config","jar": "./jars/sypg.jar","searchable": 0,"changeable": 0,"style": {"type": "rect","ratio": 1},"ext": "./json/PG推送.json"},
      {"key":"py_cctv","name": "♍┃CCTV综合┃","type": 3,"api":"py_cctv","jar": "./jars/py1.jar","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://atomgit.com/shangyunvip/shangyunvipdc/raw/master/py/py_cctv.py"},
      {"key":"m1905","name": "♍┃CCTV电影┃","type": 3,"api":"py_cctv","jar": "./jars/py1.jar","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./py/m1905.py"},
      {"key": "玩偶哥哥","name": "🥝┃玩偶哥哥┃","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
@@ -474,8 +473,8 @@
      {"key": "yumeng","name": "️4K📀┃云梦🔍┃","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt","jar": "./jars/syog.jar"},
      {"key": "盘搜索网盘","name": "4K📀┃盘搜网盘┃","type": 3,"api": "csp_PanSearch","jar": "./jars/sypg.jar","changeable": 0,"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./json/PG推送.json","timeout": 30},
      {"key": "PanSearchmy","name": "4K📀┃PanSearch┃","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd","jar": "./jars/danmu.jar"}, 
-     {"key": "csp_QuPanSou","name": "趣盘❤️4K|弹幕","type": 3,"api": "csp_QuPanSou","jar": "http://xiyan1213.eu.org/momo/lib/jar/myok.php","searchable": 1,"filterable": 1,"changeable": 0,"ext": {"cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt","danmu": true}},
-    {"key": "csp_Qkpanso","name": "夸克❤️4K|弹幕","type": 3,"api": "csp_Qkpanso","jar": "http://xiyan1213.eu.org/momo/lib/jar/myok.php","searchable": 1,"filterable": 1,"changeable": 0,"ext": {"cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt","danmu": true}},  
+    
+    
      //磁力资源区
      {"key": "drpy_js_荐片","name": "🛩️┃荐片影视┃","type": 3,"api": "./api/apiv203drpy2.min.js","ext": "./js/荐片.js"},
      {"key": "新6V","name": "🧲┃新6V磁力┃","type": 3,"api": "csp_SixV","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://www.xb6v.com/"},
