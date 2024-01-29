@@ -498,7 +498,6 @@
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
-            "jar": "./jars/dj.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -514,8 +513,7 @@
             "filterable": 1,
             "categories": [
                 "短剧"
-            ],
-      "jar": "./jars/xbpq新版.jar"
+            ]
         },
         {
             "key": "csp_XBPQ_aoaotv",
@@ -528,8 +526,7 @@
             "ext": {
                 "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
                 "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
-            },
-      "jar": "./jars/dj.jar"
+            }
         },  
     {
       "key": "csp_Bili短剧",
