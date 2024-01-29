@@ -516,23 +516,12 @@
                 "短剧"
             ]
         },
-        {
-            "key": "csp_XBPQ_aoaotv",
-            "name": "🐲┃短剧三🐲┃",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jars/dj.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://aoao.tv/vodshow/{cateId}--------{catePg}---.html",
-                "分类": "短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"
-            }
-        },  
-    {
-      "key": "csp_Bili短剧",
-      "name": "🐲┃哔哩短剧┃",
+{"key":"短剧网","name":"🐲┃短剧三🐲┃","type":3,"api":"csp_Duanjuw","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_AppYsV2_Mxone","name":"🐲┃短剧四🐲┃","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
+
+
+
+{"key": "csp_Bili短剧","name": "🐲┃哔哩短剧┃",
       "api": "csp_Bili",
       "type": 3,
       "searchable": 1,
