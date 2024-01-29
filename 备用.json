@@ -28,7 +28,7 @@
      {"key": "玩偶哥哥","name": "🥝┃玩偶哥哥┃","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
      {"key": "玩偶OG","name": "🌺┃玩偶O G┃","type": 3,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jars/jar.php;md5;59a98ed1869e26027a3ff8d6070003f8","ext": "./json/gg.json"},
      {"key": "csp_XYQHikerAL_阿里苏苏","name": "🥝┃阿里苏苏┃","type": 3,"api": "csp_XYQHikerAL","jar": "./ogjar.php;md5;bd5a661caa40607283feb87fe1265fb5","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/alisusu.json"},
-     {"key": "csp_XYQHikerAL_影视车","name": "🚆┃影视车🚉┃","type": 3,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/yingshiche.json","jar": "./ogjar.php;md5;bd5a661caa40607283feb87fe1265fb5"},
+     {"key": "csp_XYQHikerAL_影视车","name": "🚆┃影视车🚉┃","type": 3,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/woj.json","jar": "./ogjar.php;md5;bd5a661caa40607283feb87fe1265fb5"},
      {"key": "zy_新浪","name": "🏄🏻┃新浪资源┃","type": 1,"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0,
 "categories": [
                 "动漫",
