@@ -447,7 +447,7 @@
      {"key": "七夜弹幕版","name": "4K📀┃七夜弹幕┃","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 1,"ext": {"token": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd","danmu": true}}, 
      {"key": "UpYun","name": "4K📀┃Up搜┃","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"},
      {"key": "PanSearchmy","name": "4K📀┃PanSearch┃","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"}, 
-     {"key":"Gitcafe","name":"4K📀┃小纸条┃","type":3,"api":"csp_Gitcafe","jar": "./jars/ogjar.php;md5;bd5a661caa40607283feb87fe1265fb5","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvBox/token.txt"},
+     {"key":"Gitcafe","name":"4K📀┃小纸条┃","type":3,"api":"csp_Gitcafe","jar": "./jars/ogjar.php;md5;bd5a661caa40607283feb87fe1265fb5","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt"},
      {"key":"️玩偶弟","name":"4K📀┃玩偶弟弟┃","type":3,"api":"csp_XYQHikerAL","jar": "./jars/ogjar.php;md5;bd5a661caa40607283feb87fe1265fb5","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/wod.json"},
      {"key":"️玩偶妹","name":"4K📀┃玩偶表哥┃","type":3,"api":"csp_XYQHikerAL","jar": "./jars/ogjar.php;md5;bd5a661caa40607283feb87fe1265fb5","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/wom.json"},  
      
