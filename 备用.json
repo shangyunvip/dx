@@ -451,8 +451,8 @@
      {"key": "七夜弹幕版","name": "4K📀┃七夜弹幕┃","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 1,"ext": {"token": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd","danmu": true},"jar": "./jars/danmu.jar"}, 
      {"key": "PanSearchmy","name": "4K📀┃PanSearch┃","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd","jar": "./jars/danmu.jar"}, 
      {"key":"Gitcafe","name":"4K📀┃小纸条┃","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvBox/token.txt"},
-     {"key":"️玩偶弟","name":"4K📀┃玩偶弟弟┃","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/wod.json"},
-     {"key":"️玩偶妹","name":"4K📀┃玩偶表哥┃","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/wom.json"},  
+     {"key":"️玩偶弟","name":"4K📀┃玩偶弟弟┃","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/wod.json"},
+     {"key":"️玩偶妹","name":"4K📀┃玩偶表哥┃","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/wom.json"},  
      //磁力资源区
      {"key": "drpy_js_荐片","name": "🛩️┃荐片影视┃","type": 3,"api": "./api/apiv203drpy2.min.js","ext": "./js/荐片.js"},
      {"key": "新6V","name": "🧲┃新6V磁力┃","type": 3,"api": "csp_SixV","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://www.xb6v.com/"},
