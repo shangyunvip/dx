@@ -135,7 +135,7 @@
      {"key":"加速器","name":"🎦┃加速影视┃","type":3,"api":"csp_AppYs","jar": "./jars/ogjar.php;md5;bd5a661caa40607283feb87fe1265fb5","searchable":1,"quickSearch":1,"ext":"http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod"},
      {"key":"鸭奈飞","name":"🎦┃奈飞影视┃","type":3,"api":"csp_AppYsV2","jar": "./jars/ogjar.php;md5;bd5a661caa40607283feb87fe1265fb5","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},
      {"key":"酷影视","name":"🎦┃酷影影视┃","type":3,"api":"csp_AppYsV2","jar": "./jars/ogjar.php;md5;bd5a661caa40607283feb87fe1265fb5","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
-     {"key": "哔嘀","name": "🎦┃哔嘀💘💘┃","type": 3,"api": "csp_Bdys","searchable": 1,"quickSearch": 1,"filterable": 1},    
+     {"key": "哔嘀","name": "🎦┃哔嘀💘💘┃","type": 3,"api": "csp_Bdys","jar": "./jars/ogjar.php;md5;bd5a661caa40607283feb87fe1265fb5","searchable": 1,"quickSearch": 1,"filterable": 1},    
      {"key": "348影视","name": "🎦┃348秒播┃","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/348.json","jar": "./jars/syys.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"},
      {"key": "子子影视","name": "🎦┃子子秒播┃","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/zizi.json","jar": "./jars/syys.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"},
      {"key": "耐看点播","name": "🎦┃耐看秒播┃","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": "1","ext": "./json/naikan.json","jar": "./jars/syys.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"},
@@ -442,17 +442,15 @@
         ]
     },     
 
-
-
      //网盘资源区     
      {"key": "YiSo","name": "4K📀┃易搜🔍┃","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"},
-     {"key": "易搜弹幕版","name": "4K📀┃易搜弹幕┃","type": 3,"api": "csp_YiSo","searchable": 1,"filterable": 0,"changeable": 1,"ext": {"token": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd","danmu": true},"jar": "./jars/danmu.jar"},
-     {"key":"盘搜","name": "4K📀┃盘搜弹幕┃","type": 3,"api": "csp_PanSou","searchable": 1,"filterable": 0,"changeable": 1,"ext": {"token": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd","danmu": true},"jar": "./jars/danmu.jar"},
-     {"key": "七夜弹幕版","name": "4K📀┃七夜弹幕┃","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 1,"ext": {"token": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd","danmu": true},"jar": "./jars/danmu.jar"}, 
-     {"key": "PanSearchmy","name": "4K📀┃PanSearch┃","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd","jar": "./jars/danmu.jar"}, 
+     {"key": "七夜弹幕版","name": "4K📀┃七夜弹幕┃","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 1,"ext": {"token": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd","danmu": true}}, 
+     {"key": "UpYun","name": "4K📀┃Up搜┃","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
+     {"key": "PanSearchmy","name": "4K📀┃PanSearch┃","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"}, 
      {"key":"Gitcafe","name":"4K📀┃小纸条┃","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvBox/token.txt"},
      {"key":"️玩偶弟","name":"4K📀┃玩偶弟弟┃","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/wod.json"},
      {"key":"️玩偶妹","name":"4K📀┃玩偶表哥┃","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/wom.json"},  
+     
      //磁力资源区
      {"key": "drpy_js_荐片","name": "🛩️┃荐片影视┃","type": 3,"api": "./api/apiv203drpy2.min.js","ext": "./js/荐片.js"},
      {"key": "新6V","name": "🧲┃新6V磁力┃","type": 3,"api": "csp_SixV","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://www.xb6v.com/"},
