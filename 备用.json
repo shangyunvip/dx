@@ -516,7 +516,7 @@
                 "短剧"
             ]
         },
-{"key":"短剧网","name":"🐲┃短剧三🐲┃","type":3,"api":"csp_Duanjuw","jar": "./jars/jar.php;md5;59a98ed1869e26027a3ff8d6070003f8","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"短剧网","name":"🐲┃短剧三🐲┃","type":3,"api":"csp_Duanjuw","jar": "./jars/ogjar.php;md5;bd5a661caa40607283feb87fe1265fb5","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_AppYsV2_Mxone","name":"🐲┃短剧四🐲┃","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
 
 
