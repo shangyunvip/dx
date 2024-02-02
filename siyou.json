@@ -291,7 +291,7 @@
      {"key": "横版影院","name": "🐲┃短剧一🐲┃","type": 1,"api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["短剧"]},
      {"key":"短剧网","name":"🐲┃短剧二🐲┃","type":3,"api":"csp_Duanjuw","jar": "./jars/ogjar.php;md5;bd5a661caa40607283feb87fe1265fb5","searchable":1,"quickSearch":1,"changeable":1},
      {"key":"csp_AppYsV2_Mxone","name":"🐲┃短剧三🐲┃","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
-     {"key": "csp_Bili短剧","name": "🐲┃哔哩短剧┃","api": "csp_Bili","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./txt/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16","ext": "./json/Bili短剧.json"},
+     {"key": "csp_Bili短剧","name": "🐲┃哔哩短剧┃","api": "csp_Bili","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./txt/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16","ext": "./siyou/Bili短剧.json"},
   
      //动漫区
      {"key": "csp_Dm84","name": "🚌┃动漫巴士┃","type": 3,"api": "csp_Dm84","searchable": 1,"quickSearch": 1,"changeable": 1},
@@ -406,15 +406,15 @@
       "playerType": "2"
     },
      //bibi区
-     {"key": "Bili","name": "🅱️┃哔哔合集┃","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "https://atomgit.com/shangyunvip/shangyunvipdc/raw/master/json/bilibili.json"},
+     {"key": "Bili","name": "🅱️┃哔哔合集┃","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "https://atomgit.com/shangyunvip/ysc/raw/master/bilibili.json"},
      {"key": "Biliych","name": "🅱️┃哔哔歌曲┃","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "./json/biliych.json"},
-     {"key": "软件","name": " 🅱️┃软件教程┃","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./json/软件教程.json"},
+     {"key": "软件","name": " 🅱️┃软件教程┃","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./siyou/软件教程.json"},
      {"key": "歌舞","name": "🅱️┃印度歌舞┃","type": 3,
       "api": "csp_Bili",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/印度歌舞.json"
+      "ext": "./siyou/印度歌舞.json"
     },
     {
       "key": "小姐姐",
@@ -424,7 +424,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/哔哩xjj.json"
+      "ext": "./siyou/哔哩xjj.json"
     },
     {
       "key": "车模",
@@ -434,7 +434,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/哔哩车模.json"
+      "ext": "./siyou/哔哩车模.json"
     },
     {
       "key": "舞蹈",
@@ -444,7 +444,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/哔哩舞蹈.json"
+      "ext": "./siyou/哔哩舞蹈.json"
     },
     {
       "key": "MV",
@@ -454,7 +454,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/哔哩MTV.json"
+      "ext": "./siyou/哔哩MTV.json"
     },
     {
       "key": "戏曲自定义",
@@ -464,7 +464,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/哔哩戏曲.json"
+      "ext": "./siyou/哔哩戏曲.json"
     },
     {
       "key": "解说",
@@ -474,7 +474,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/哔哩影视解说.json"
+      "ext": "./siyou/哔哩影视解说.json"
     },
     {
       "key": "球类",
@@ -484,7 +484,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./json/哔哩球球.json"
+      "ext": "./siyou/哔哩球球.json"
     },
     {
       "key": "美食",
@@ -533,7 +533,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./json/少儿教育.json"
+      "ext": "./siyou/少儿教育.json"
     },
     {
       "key": "小学课堂",
@@ -547,7 +547,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./json/小学课堂.json"
+      "ext": "./siyou/小学课堂.json"
     },
     {
       "key": "初中课堂",
