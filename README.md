@@ -1,23 +1,24 @@
 # shangyunvip
 
 #### 介绍
-shangyunvip私有库
+shangyunvip单仓
 
 #### 软件架构
-软件架构说明
+tvbox系列单仓
 
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  tvbox壳子给予存储权限，
+2.  拷贝raw地址进入地址栏，随意取个名称，
+3.  点击确认导入连接。
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  适用tvbox系列壳子，
+2.  内含py源不适用蜂蜜影视以及catbox
+3.  jar来源：饭太硬，欧歌，运输车。
+
 
 #### 参与贡献
 
