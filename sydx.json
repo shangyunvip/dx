@@ -355,7 +355,7 @@
       "name": "🐯┃虎牙直播┃",
       "type": 3,
       "api": "./api/apiv203drpy2.min.js",
-      "ext": "https://raw.fgit.cf/shangyunvip/github/master/js/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/github/master/js/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
