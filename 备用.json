@@ -92,19 +92,7 @@
      {"key": "csp_Voflix","name": "🎦┃Voflix🎦┃","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/voflix.json","jar": "./jars/syys.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"},
      {"key": "七年影视","name": "🎦┃七年影视┃","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": "1","ext": "./json/qinian.json","jar": "./jars/syys.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"},
      {"key": "畅梦","name": "🎦┃畅梦秒播┃","type": 3,"api": "./api/apiv203drpy2.min.js","ext": "./js/changmeng.js","jar": "./jars/syys.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5"},
-
-     {"key": "飞虫","name": "🎃┃飞虫App┃","api": "http://api.feichong.cc/feichong/api/type?version=1.0.1&a=1707297319334&store=feichong","searchable": 1,"changeable": 1,
-     "categories": ["推荐",
-        "电视剧",
-        "电影",
-        "综艺",
-        "动漫",
-        "美剧",
-        "韩剧"
-      ]
-    },
      
-
      {"key": "csp_XYQHikerdyx","name": "🎊┃电影港🎊┃","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./txt/spider.txt","ext": " ./json/电影港.json"},
      {"key": "索尼资源","name": "🏜️┃索尼采集┃","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1,
 "categories": [
