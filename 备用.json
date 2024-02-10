@@ -29,6 +29,7 @@
      {"key": "玩偶OG","name": "🌺┃玩偶O G┃","type": 3,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jars/jar.php;md5;59a98ed1869e26027a3ff8d6070003f8","ext": "./json/gg.json"},
      {"key": "csp_XYQHikerAL_阿里苏苏","name": "🥝┃阿里苏苏┃","type": 3,"api": "csp_XYQHikerAL","jar": "./jars/ogjar.php?id=ou;md5;465f03aa2232d9ab806b2396c6987142","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/alisusu.json"},
      {"key": "csp_XYQHikerAL_影视车","name": "🚆┃影视车🚉┃","type": 3,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/yingshiche.json","jar": "./jars/ogjar.php?id=ou;md5;465f03aa2232d9ab806b2396c6987142"},
+     {"key": "csp_xpath_yinfans","name": "音范丝💥蓝光4K","type": 3,"api": "csp_XPath","jar": "./jars/yfs.png","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/infans.json"},
      {"key": "zy_新浪","name": "🏄🏻┃新浪资源┃","type": 1,"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0,
 "categories": [
                 "动漫",
