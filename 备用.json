@@ -26,10 +26,10 @@
      {"key":"py_cctv","name": "♍┃CCTV综合┃","type": 3,"api":"py_cctv","jar": "./jars/py1.jar","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://atomgit.com/shangyunvip/shangyunvipdc/raw/master/py/py_cctv.py"},
      {"key":"m1905","name": "♍┃CCTV电影┃","type": 3,"api":"py_cctv","jar": "./jars/py1.jar","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./py/m1905.py"},
      {"key": "玩偶哥哥","name": "🥝┃玩偶哥哥┃4K","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
-     {"key": "玩偶OG","name": "🌺┃玩偶OG┃4K","type": 3,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jars/jar.php;md5;59a98ed1869e26027a3ff8d6070003f8","ext": "./json/gg.json"},
+     {"key": "玩偶OG","name": "🌺┃玩偶O G┃4K","type": 3,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jars/jar.php;md5;59a98ed1869e26027a3ff8d6070003f8","ext": "./json/gg.json"},
      {"key": "csp_XYQHikerAL_阿里苏苏","name": "🥝┃阿里苏苏┃4K","type": 3,"api": "csp_XYQHikerAL","jar": "./jars/ogjar.php?id=ou;md5;465f03aa2232d9ab806b2396c6987142","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/alisusu.json"},
-     {"key": "csp_XYQHikerAL_影视车","name": "🚆┃影视车┃4K","type": 3,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/yingshiche.json","jar": "./jars/ogjar.php?id=ou;md5;465f03aa2232d9ab806b2396c6987142"},
-     {"key": "csp_xpath_yinfans","name": "💥┃音范丝┃4K","type": 3,"api": "csp_XPath","jar": "./jars/yfs.png","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/infans.json"},
+     {"key": "csp_XYQHikerAL_影视车","name": "🚆┃影视车🚆┃4K","type": 3,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/yingshiche.json","jar": "./jars/ogjar.php?id=ou;md5;465f03aa2232d9ab806b2396c6987142"},
+     {"key": "csp_xpath_yinfans","name": "💥┃音范丝💥┃4K","type": 3,"api": "csp_XPath","jar": "./jars/yfs.png","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/infans.json"},
      {"key": "小胡","name": "🥳┃小胡影视┃4K","type": 1,"playerType": 1,"api": "http://xh1.xn--yetu07f.icu/api.php/provide/vod/"},
     {
       "key": "快云资源",
