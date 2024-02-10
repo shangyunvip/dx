@@ -81,8 +81,8 @@
      {"key":"酷影视","name":"💗┃酷影影视┃","type":3,"api":"csp_AppYsV2","jar": "./jars/ogjar.php?id=ou;md5;465f03aa2232d9ab806b2396c6987142","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
      {"key":"胡胡","name":"💗┃胡胡影视┃","type":3,"api":"csp_WebHH","jar": "./jars/ogjar.php?id=ou;md5;465f03aa2232d9ab806b2396c6987142","searchable":1,"quickSearch":1,"filterable":0},
      {"key":"新视觉","name":"💗┃新视觉影视┃","type":3,"api":"csp_Web608","jar": "./jars/ogjar.php?id=ou;md5;465f03aa2232d9ab806b2396c6987142","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.80yy3.com"},
-     {"key":"欣欣","name":"💗┃欣欣影视┃","type":3,"api":"csp_Movie2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://106.54.39.252/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/json/ou.php?id=2"},
-     {"key":"云播","name":"💗┃云播影视┃","type":3,"api":"csp_Skapp","ext":"http://106.54.39.252/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/json/ou.php?id=3"},
+     {"key":"欣欣","name":"💗┃欣欣影视┃","type":3,"api":"csp_Movie2","jar": "./jars/ogjar.php?id=ou;md5;465f03aa2232d9ab806b2396c6987142","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://106.54.39.252/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/json/ou.php?id=2"},
+     {"key":"云播","name":"💗┃云播影视┃","type":3,"api":"csp_Skapp","jar": "./jars/ogjar.php?id=ou;md5;465f03aa2232d9ab806b2396c6987142","ext":"http://106.54.39.252/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/json/ou.php?id=3"},
 
 
 
