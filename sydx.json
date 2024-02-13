@@ -26,9 +26,9 @@
      {"key":"py_cctv","name": "♍┃CCTV综合┃","type": 3,"api":"py_cctv","jar": "./jars/py1.jar","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://atomgit.com/shangyunvip/shangyunvipdc/raw/master/py/py_cctv.py"},
      {"key":"m1905","name": "♍┃CCTV电影┃","type": 3,"api":"py_cctv","jar": "./jars/py1.jar","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./py/m1905.py"},
      {"key": "玩偶哥哥","name": "🥝┃玩偶哥哥┃4K","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
-     {"key":"️玩偶哥","name":"🌺┃玩偶O G┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jars/ogjar.php;md5;59a98ed1869e26027a3ff8d6070003f8","ext":"./json/wog.json"},
      {"key":"️玩偶妹","name":"🌺┃玩偶表哥┃4K","type":3,"api":"csp_XYQHikerAL","jar": "./jars/ogjar.php?id=ou;md5;465f03aa2232d9ab806b2396c6987142","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/wom.json"},  
-     {"key": "csp_XYQHikerAL_阿里苏苏","name": "🥝┃阿里苏苏┃4K","type": 3,"api": "csp_XYQHikerAL","jar": "./jars/ogjar.php?id=ou;md5;465f03aa2232d9ab806b2396c6987142","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/alisusu.json"},
+     {"key":"️玩偶弟","name":"4K📀┃玩偶弟弟┃","type":3,"api":"csp_XYQHikerAL","jar": "./jars/ogjar.php?id=ou;md5;465f03aa2232d9ab806b2396c6987142","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/wod.json"},
+     "key": "csp_XYQHikerAL_阿里苏苏","name": "🥝┃阿里苏苏┃4K","type": 3,"api": "csp_XYQHikerAL","jar": "./jars/ogjar.php?id=ou;md5;465f03aa2232d9ab806b2396c6987142","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/alisusu.json"},
      {"key": "csp_XYQHikerAL_影视车","name": "🚆┃影视车🚆┃4K","type": 3,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/yingshiche.json","jar": "./jars/ogjar.php?id=ou;md5;465f03aa2232d9ab806b2396c6987142"},
      {"key": "csp_xpath_yinfans","name": "💥┃音范丝💥┃4K","type": 3,"api": "csp_XPath","jar": "./jars/yfs.png","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/infans.json"},
      {"key": "小胡","name": "🥳┃小胡影视┃4K","type": 1,"playerType": 1,"api": "http://xh1.xn--yetu07f.icu/api.php/provide/vod/"},
@@ -326,8 +326,8 @@
      {"key": "UpYun","name": "4K📀┃Up搜┃","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"},
      {"key": "PanSearchmy","name": "4K📀┃PanSearch┃","type": 3,"api": "csp_PanSearch","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"}, 
      {"key":"Gitcafe","name":"4K📀┃小纸条┃","type":3,"api":"csp_Gitcafe","jar": "./jars/ogjar.php?id=ou;md5;465f03aa2232d9ab806b2396c6987142","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt"},
-     {"key":"️玩偶弟","name":"4K📀┃玩偶弟弟┃","type":3,"api":"csp_XYQHikerAL","jar": "./jars/ogjar.php?id=ou;md5;465f03aa2232d9ab806b2396c6987142","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/wod.json"},
-     
+     {"key":"️玩偶哥","name":"🌺┃玩偶O G┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jars/ogjar.php;md5;59a98ed1869e26027a3ff8d6070003f8","ext":"./json/wog.json"},
+
      //磁力资源区
      {"key": "drpy_js_荐片","name": "🛩️┃荐片影视┃","type": 3,"api": "./api/apiv203drpy2.min.js","ext": "./js/荐片.js"},
      {"key": "新6V","name": "🧲┃新6V磁力┃","type": 3,"api": "csp_SixV","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://www.xb6v.com/"},
