@@ -5,348 +5,58 @@
   "spider":"./jars/ok.png",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
-    {
-      "key": "豆豆",
-      "name": "豆瓣热剧",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+    {"key": "豆瓣","name": "豆瓣热剧","type": 3,"api": "csp_Douban","searchable": 0,"quickSearch": 0,"filterable": 0},
+    {"key": "csp_KungFu404","name": "🔥设置Token","type": 3,"api": "csp_KungFu404","searchable": 0,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt","jar": "./jars/alibaba.jar;md5;332d0e5a28640ee88589390ad4a23a39"},
+    {"key": "配置中心","name": "👨‍🍳‍配置中心","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"style": {"type": "rect","ratio": 1.43}},
+    {"key": "运输车弹幕版","name": "🚗运输车┃4K弹幕","type": 3,"api": "csp_Wogg","searchable": 1,"filterable": 1,"changeable": 1,"ext": {
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt","cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt",
+        "site": "https://www.weixine.net","danmu": true},"timeout": 25},
+    {"key": "团长弹幕版","name": "🗽团长┃4K弹幕","type": 3,"api": "csp_Tzfile","searchable": 1,"filterable": 1,"changeable": 1,"ext": {
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt","cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt","danmu": true},"timeout": 25},
+    {"key": "土豆网盘弹幕","name": "🥔土豆网盘┃4K弹幕","type": 3,"api": "csp_Wobg","quickSearch": 1,"changeable": 1,"filterable": 1,"ext": {"token": "http://127.0.0.1:9978/file/tvbox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt","site": "https://ali.lvdoui.top","danmu": true},"timeout": 25},
+    {"key": "我哥哥弹幕","name": "🍡我哥哥┃4K弹幕","type": 3,"api": "csp_Wobg","quickSearch": 1,"changeable": 1,"filterable": 1,"ext": {
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt","cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt","site": "http://www.ttkx.live","danmu": true},"timeout": 25},
+    {"key": "玩偶表哥弹幕","name": "🥏玩偶表哥┃4K弹幕","type": 3,"api": "csp_Wobg","quickSearch": 1,"changeable": 1,"filterable": 1,"ext": {
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt","cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt","danmu": true},"timeout": 10},
+    {"key": "新6V","name": "🧲新6V┃磁力","type": 3,"api": "csp_Xb6v","searchable": 1,"changeable": 0,"timeout": 10},
+    {"key": "csp_QuPanSou","name": "🤓趣盘搜┃搜索","type": 3,"api": "csp_QuPanSou","searchable": 1,"filterable": 1,"changeable": 0,
+      "ext": {"cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt","danmu": true},"timeout": 10},
+    {"key": "csp_Qkpanso","name": "🐚夸克盘搜┃搜索","type": 3,"api": "csp_Qkpanso","searchable": 1,"filterable": 1,"changeable": 0,
+      "ext": {"cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt","danmu": true},"timeout": 10},
+    {"key": "纸条","name": "🗞纸条┃搜索","type": 3,"api": "csp_XiaoZhiTiao","searchable": 1,"filterable": 1,"changeable": 0,"ext": {
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt","danmu": true},"timeout": 10},
+    {"key": "盘Se","name": "🙀盘Se┃搜索","type": 3,"api": "csp_PanSearch","searchable": 1,"filterable": 0,"changeable": 0,"ext": {
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt","danmu": true},"timeout": 10},
+        {"key": "阿里云集合zx0204","name": "🦊阿里集合2", "type": 3,"api": "csp_阿里云集合","searchable": 1, "filterable": 0,"switchable": 0,
+      "jar":"./jars/zx0204.jar","ext": "./json/阿里集合.json;http://127.0.0.1:9978/file/tvbox/token.txt"},
+    {"key": "找資源","name": "找资源┃搜索","type": 3,"api": "csp_Zhaozy","searchable": 1,"filterable": 0,"changeable": 0,"ext": {
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt","danmu": true},"timeout": 10},
+    {"key": "七夜","name": "😾七夜┃搜索","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 0,"ext": {
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt","danmu": true},"timeout": 10},
+    {"key": "盘搜","name": "🦊盘搜┃搜索","type": 3,"api": "csp_PanSou","searchable": 1,"filterable": 0,"changeable": 0,"ext": {
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt","danmu": true},"timeout": 10},
+    {"key": "易搜","name": "😹易搜┃搜索","type": 3,"api": "csp_YiSo","searchable": 1,"filterable": 0,"changeable": 0,"ext": {
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt","danmu": true,"cookie": "JSESSIONID=FEAFA3BD405267C378C2455FBAD4A704;satoken=0f065aaa-1b6b-4b9b-9910-83a67fb14da2"},"timeout": 10},
+    {"key": "Up云搜","name": "😻Up搜┃搜索","type": 3,"api": "csp_Upys","searchable": 1,"filterable": 0,"changeable": 0,"ext": {
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt","danmu": true},"timeout": 10},
+    {"key": "云盘4K","name": "🤖云盘4K┃搜索","type": 3,"api": "csp_Yunpan4k","searchable": 1,"filterable": 0,"changeable": 0,"ext": {
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt","danmu": true},"timeout": 10},
+    {"key": "push_agent","name": "🛴手机┃推送","type": 3,"api": "csp_Push","searchable": 0,"filterable": 0,"changeable": 0,"ext": {
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt","cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt","danmu": true},"timeout": 10},
+    {"key": "AList","name": "AList","type": 3,"api": "csp_AList","searchable": 1,"changeable": 0,"ext": "./json/alist1.json"},
+    {"key": "WebDAV","name": "WebDAV","type": 3,"api": "csp_WebDAV","searchable": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/webdav.json"},
+    {"key": "csp_AList","name": "小雅｜云盘","type": 3,"playerType": 1,"api": "csp_AList","searchable": 1,"quickSearch": 1,"filterable": 1,
+      "ext": {"vodPic": "https://up.mediy.cn/033_喜欢_adf390021f221477b26a94f5eaf02643.png","drives": [
+          {"name": "Ecve","server": "https://pan.ecve.cn/"},
+          {"name": "小鸭","server": "https://pan.mediy.cn/"},
+          {"name": "秋雨","server": "https://share.qiuyu.org/"},
+          {"name": "小雅","server": "http://alist.xiaoya.pro/"},
+          {"name": "七米蓝","server": "https://al.chirmyram.com/"},
+          {"name": "蓼茶","server": "http://175.178.16.226:62494/"},
+          {"name": "柯南","server": "https://alist.523.monster/"},
+          {"name": "老谭","server": "https://pan.cqtjy.cn/ali"}]}
     },
-        {
-      "key": "csp_KungFu404",
-      "name": "🔥设置Token",
-      "type": 3,
-      "api": "csp_KungFu404",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar": "./jars/alibaba.jar;md5;332d0e5a28640ee88589390ad4a23a39"
-    },
-    {
-      "key": "运输车弹幕版",
-      "name": "🚗运输车┃4K弹幕",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt",
-        "site": "https://www.weixine.net",
-        "danmu": true
-      },
-      "timeout": 25
-    },
-    {
-      "key": "团长弹幕版",
-      "name": "🗽团长┃4K弹幕",
-      "type": 3,
-      "api": "csp_Tzfile",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt",
-        "danmu": true
-      },
-      "timeout": 25
-    },
-    {
-      "key": "土豆网盘弹幕",
-      "name": "🥔土豆网盘┃4K弹幕",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt",
-        "site": "https://ali.lvdoui.top",
-        "danmu": true
-      },
-      "timeout": 25
-    },
-    {
-      "key": "我哥哥弹幕",
-      "name": "🍡我哥哥┃4K弹幕",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt",
-        "site": "http://www.ttkx.live",
-        "danmu": true
-      },
-      "timeout": 25
-    },
-    {
-      "key": "玩偶表哥弹幕",
-      "name": "🥏玩偶表哥┃4K弹幕",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
-      "key": "新6V",
-      "name": "🧲新6V┃磁力",
-      "type": 3,
-      "api": "csp_Xb6v",
-      "searchable": 1,
-      "changeable": 0,
-      "timeout": 10
-    },
-    {
-      "key": "csp_QuPanSou",
-      "name": "🤓趣盘搜┃搜索",
-      "type": 3,
-      "api": "csp_QuPanSou",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
-      "key": "csp_Qkpanso",
-      "name": "🐚夸克盘搜┃搜索",
-      "type": 3,
-      "api": "csp_Qkpanso",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
-      "key": "纸条",
-      "name": "🗞纸条┃搜索",
-      "type": 3,
-      "api": "csp_XiaoZhiTiao",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
-      "key": "盘Se",
-      "name": "🙀盘Se┃搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-        {
-      "key": "阿里云集合zx0204",
-      "name": "🦊阿里集合2", 
-      "type": 3,
-      "api": "csp_阿里云集合",
-      "searchable": 1, 
-      "filterable": 0,
-      "switchable": 0,
-      "jar":"./jars/zx0204.jar",
-      "ext": "./json/阿里集合.json;http://127.0.0.1:9978/file/tvbox/token.txt"
-      
-    },
-    {
-      "key": "找資源",
-      "name": "找资源┃搜索",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
-      "key": "七夜",
-      "name": "😾七夜┃搜索",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
-      "key": "盘搜",
-      "name": "🦊盘搜┃搜索",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
-      "key": "易搜",
-      "name": "😹易搜┃搜索",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
-        "danmu": true,
-        "cookie": "JSESSIONID=FEAFA3BD405267C378C2455FBAD4A704;satoken=0f065aaa-1b6b-4b9b-9910-83a67fb14da2"
-      },
-      "timeout": 10
-    },
-    {
-      "key": "Up云搜",
-      "name": "😻Up搜┃搜索",
-      "type": 3,
-      "api": "csp_Upys",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
-      "key": "云盘4K",
-      "name": "🤖云盘4K┃搜索",
-      "type": 3,
-      "api": "csp_Yunpan4k",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
-      "key": "push_agent",
-      "name": "🛴手机┃推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-
-    {
-      "key": "AList",
-      "name": "AList",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "./json/alist1.json"
-    },
-       {
-      "key": "WebDAV",
-      "name": "WebDAV",
-      "type": 3,
-      "api": "csp_WebDAV",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "./json/webdav.json"
-    },
-    {
-      "key": "csp_AList",
-      "name": "小雅｜云盘",
-      "type": 3,
-      "playerType": 1,
-      "api": "csp_AList",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "vodPic": "https://up.mediy.cn/033_喜欢_adf390021f221477b26a94f5eaf02643.png",
-        "drives": [
-          {
-            "name": "Ecve",
-            "server": "https://pan.ecve.cn/"
-          },
-          {
-            "name": "小鸭",
-            "server": "https://pan.mediy.cn/"
-          },
-          {
-            "name": "秋雨",
-            "server": "https://share.qiuyu.org/"
-          },
-          {
-            "name": "小雅",
-            "server": "http://alist.xiaoya.pro/"
-          },
-          {
-            "name": "七米蓝",
-            "server": "https://al.chirmyram.com/"
-          },
-          {
-            "name": "蓼茶",
-            "server": "http://175.178.16.226:62494/"
-          },
-          {
-            "name": "柯南",
-            "server": "https://alist.523.monster/"
-          },
-          {
-            "name": "老谭",
-            "server": "https://pan.cqtjy.cn/ali"
-          }
-        ]
-      }
-    },
- 
     {
       "key": "local2",
       "name": "公️众号:殇云分享",
