@@ -75,7 +75,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext": {
-        "token": "file://tvbox/token.txt",
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
         "wogg": true,
         "danmu": true
       },
@@ -90,7 +90,7 @@
       "changeable": 0,
       "filterable": 0,
       "ext": {
-        "token": "file://tvbox/token.txt",
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
         "share": "./json/阿里集合.json"
       },
       "style": {
@@ -106,7 +106,7 @@
       "searchable": 1, 
       "filterable": 0,
       "switchable": 0,
-      "ext": "./json/阿里集合2.json;file://tvbox/token.txt",
+      "ext": "./json/阿里集合2.json;http://127.0.0.1:9978/file/tvbox/token.txt",
       "jar":"./jars/zx0204.jar"
     },
     {
@@ -118,7 +118,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext": {
-        "token": "file://tvbox/token.txt",
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
         "cookie": "file://tvbox/quark_cookie.txt",
         "site": "https://www.weixine.net",
         "danmu": true
@@ -134,7 +134,7 @@
       "filterable": 1,
       "changeable": 1,
       "ext": {
-        "token": "file://tvbox/token.txt",
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
         "cookie": "file://tvbox/quark_cookie.txt",
         "danmu": true
       },
@@ -149,7 +149,7 @@
       "changeable": 1,
       "filterable": 1,
       "ext": {
-        "token": "file://tvbox/token.txt",
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
         "cookie": "file://tvbox/quark_cookie.txt",
         "site": "https://ali.lvdoui.top",
         "danmu": true
@@ -165,7 +165,7 @@
       "changeable": 1,
       "filterable": 1,
       "ext": {
-        "token": "file://tvbox/token.txt",
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
         "cookie": "file://tvbox/quark_cookie.txt",
         "site": "http://www.ttkx.live",
         "danmu": true
@@ -181,7 +181,7 @@
       "changeable": 1,
       "filterable": 1,
       "ext": {
-        "token": "file://tvbox/token.txt",
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
         "cookie": "file://tvbox/quark_cookie.txt",
         "danmu": true
       },
@@ -482,7 +482,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "token": "file://tvbox/token.txt",
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
         "danmu": true
       },
       "timeout": 10
@@ -496,7 +496,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": {
-        "token": "file://tvbox/token.txt",
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
         "danmu": true
       },
       "timeout": 10
@@ -510,7 +510,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": {
-        "token": "file://tvbox/token.txt",
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
         "danmu": true
       },
       "timeout": 10
@@ -524,7 +524,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": {
-        "token": "file://tvbox/token.txt",
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
         "danmu": true
       },
       "timeout": 10
@@ -538,7 +538,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": {
-        "token": "file://tvbox/token.txt",
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
         "danmu": true
       },
       "timeout": 10
@@ -552,7 +552,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": {
-        "token": "file://tvbox/token.txt",
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
         "danmu": true,
         "cookie": "JSESSIONID=FEAFA3BD405267C378C2455FBAD4A704;satoken=0f065aaa-1b6b-4b9b-9910-83a67fb14da2"
       },
@@ -567,7 +567,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": {
-        "token": "file://tvbox/token.txt",
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
         "danmu": true
       },
       "timeout": 10
@@ -581,7 +581,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": {
-        "token": "file://tvbox/token.txt",
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
         "danmu": true
       },
       "timeout": 10
@@ -595,7 +595,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": {
-        "token": "file://tvbox/token.txt",
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
         "cookie": "file://tvbox/quark_cookie.txt",
         "danmu": true
       },
