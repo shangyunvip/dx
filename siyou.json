@@ -44,11 +44,7 @@
       "ext": {"cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt","danmu": true},"timeout": 10},
      {"key": "csp_Qkpanso","name": "🐚┃夸克盘搜┃搜索","type": 3,"api": "csp_Qkpanso","searchable": 1,"filterable": 1,"changeable": 0,
       "ext": {"cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt","danmu": true},"timeout": 10},
-     {"key": "push_agent","name": "🛴┃手机推送┃","type": 3,"api": "csp_Push","searchable": 0,"filterable": 0,"changeable": 0,"ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/token.txt","cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt","danmu": true},"timeout": 10},
-     {"key": "AList","name": "┃AList┃","type": 3,"api": "csp_AList","searchable": 1,"changeable": 0,"ext": "./json/alist1.json"},
-     {"key": "WebDAV","name": "┃WebDAV┃","type": 3,"api": "csp_WebDAV","searchable": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/webdav.json"},
-     {"key": "csp_AList","name": "┃小雅云盘┃","type": 3,"playerType": 1,"api": "csp_AList","searchable": 1,"quickSearch": 1,"filterable": 1,
+     {"key": "csp_AList","name": "┃小雅云盘┃","type": 3,"playerType": 1,"api": "csp_AList",  "jar": "./jars/fty216.jar;md5;be7060a567ce9e8021946b6de0ed8dae","searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {"vodPic": "https://up.mediy.cn/033_喜欢_adf390021f221477b26a94f5eaf02643.png","drives": [
           {"name": "Ecve","server": "https://pan.ecve.cn/"},
           {"name": "小鸭","server": "https://pan.mediy.cn/"},
