@@ -25,7 +25,7 @@
      {"key":"m1905","name": "♍┃CCTV电影┃","type": 3,"api":"py_cctv","jar": "./jars/py1.jar","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./py/m1905.py"},
 
      //直播区
-     {"key": "Aid","name": "🚑┃急救教学┃","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8}},
+     {"key": "Aid","name": "🚑┃急救教学┃","type": 3,"api": "csp_FirstAid","jar": "./jars/fty.jar","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8}},
         {
       "key": "酷奇js",
       "name": "🎵┃酷奇MV┃",
