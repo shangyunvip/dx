@@ -12,22 +12,13 @@
         "token": "http://127.0.0.1:9978/file/tvbox/token.txt","cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt",
         "site": "https://www.weixine.net","danmu": true},"timeout": 25},
      //阿里资源区
-     {"key":"Gitcafe","name":"4K📀┃小纸条┃","type":3,"api":"csp_Gitcafe","jar": "./jars/ogjar.php?id=ou;md5;465f03aa2232d9ab806b2396c6987142","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt"},
      {"key": "阿里云集合zx0204","name": "🦊┃阿里集合┃", "type": 3,"api": "csp_阿里云集合","searchable": 1, "filterable": 0,"switchable": 0,
       "jar":"./jars/zx0204.jar","ext": "./json/阿里集合.json;http://127.0.0.1:9978/file/tvbox/token.txt"},
      {"key": "盘Se","name": "🙀┃盘Se搜索┃","type": 3,"api": "csp_PanSearch","searchable": 1,"filterable": 0,"changeable": 0,"ext": {
         "token": "http://127.0.0.1:9978/file/tvbox/token.txt","danmu": true},"timeout": 10},
-     {"key": "找資源","name": "┃找资源搜索┃","type": 3,"api": "csp_Zhaozy","searchable": 1,"filterable": 0,"changeable": 0,"ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/token.txt","danmu": true},"timeout": 10},
-     {"key": "七夜","name": "😾┃七夜搜索┃","type": 3,"api": "csp_Dovx","searchable": 1,"filterable": 0,"changeable": 0,"ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/token.txt","danmu": true},"timeout": 10},
-     {"key": "盘搜","name": "🦊┃盘搜搜索┃","type": 3,"api": "csp_PanSou","searchable": 1,"filterable": 0,"changeable": 0,"ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/token.txt","danmu": true},"timeout": 10},
      {"key": "易搜","name": "😹┃易搜搜索┃","type": 3,"api": "csp_YiSo","searchable": 1,"filterable": 0,"changeable": 0,"ext": {
         "token": "http://127.0.0.1:9978/file/tvbox/token.txt","danmu": true,"cookie": "JSESSIONID=FEAFA3BD405267C378C2455FBAD4A704;satoken=0f065aaa-1b6b-4b9b-9910-83a67fb14da2"},"timeout": 10},
      {"key": "Up云搜","name": "😻┃Up搜搜索┃","type": 3,"api": "csp_Upys","searchable": 1,"filterable": 0,"changeable": 0,"ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/token.txt","danmu": true},"timeout": 10},
-     {"key": "云盘4K","name": "🤖┃云盘搜索┃","type": 3,"api": "csp_Yunpan4k","searchable": 1,"filterable": 0,"changeable": 0,"ext": {
         "token": "http://127.0.0.1:9978/file/tvbox/token.txt","danmu": true},"timeout": 10},
      //磁力资源区
      {"key": "drpy_js_荐片","name": "🛩️┃荐片影视┃","type": 3,"api": "./api/apiv203drpy2.min.js","ext": "./js/荐片.js"},
