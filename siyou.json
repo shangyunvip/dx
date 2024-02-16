@@ -26,17 +26,6 @@
       "jar": "./jars/alibaba.jar;md5;332d0e5a28640ee88589390ad4a23a39"
     },
     {
-      "key": "玩偶哥哥",
-      "name": "👽玩偶哥哥┃4K弹幕",
-      "type": 3,
-      "api": "csp_WoGG",
-      "jar": "./jars/fty216.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
-    },
-    {
       "key": "运输车弹幕版",
       "name": "🚗运输车┃4K弹幕",
       "type": 3,
