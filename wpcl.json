@@ -32,7 +32,7 @@
      {"key": "贱贱","name": "🐭┃贱贱p2p┃","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1","api": "./api/apiv203drpy2.min.js","ext": "./js/jp.js"},
      //夸克资源区
      {"key": "团长弹幕版","name": "🗽┃团长4K┃","type": 3,"api": "csp_Tzfile","searchable": 1,"filterable": 1,"changeable": 1,"ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/token.txt","cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt","danmu": true},"timeout": 25},
+        "token": "http://127.0.0.1:9978/file/tvbox/token.txt","cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt","danmu": true},"timeout": 25},
      {"key": "土豆网盘弹幕","name": "🥔┃土豆网盘┃","type": 3,"api": "csp_Wobg","quickSearch": 1,"changeable": 1,"filterable": 1,"ext": {"token": "http://127.0.0.1:9978/file/tvbox/token.txt",
         "cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt","site": "https://ali.lvdoui.top","danmu": true},"timeout": 25},
      {"key": "我哥哥弹幕","name": "🍡┃玩我哥哥┃","type": 3,"api": "csp_Wobg","quickSearch": 1,"changeable": 1,"filterable": 1,"ext": {
