@@ -2,7 +2,7 @@
   "公众号": "殇云分享",
   "qq频道": "殇云分享",
   "qq频道链接": "https://pd.qq.com/s/5erxlgix2",
-  "spider": "./jars/fty216.jar;md5;be7060a567ce9e8021946b6de0ed8dae",
+  "spider":"./ok.png",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -30,6 +30,7 @@
       "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
       "api": "csp_WoGG",
+      "jar": "./jars/fty216.jar;md5;be7060a567ce9e8021946b6de0ed8dae",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -39,11 +40,10 @@
       "key": "阿里合集",
       "name": "🦋阿里|合集",
       "type": 3,
-      "api": "csp_AliShare",
+      "api": "csp_阿里云集合",
       "searchable": 1,
       "changeable": 0,
       "filterable": 0,
-      "jar":"./jars/zx0204.jar",
       "ext": {
         "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
         "share": "./json/阿里集合.json"
