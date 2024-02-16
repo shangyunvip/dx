@@ -25,32 +25,14 @@
       "jar": "./jars/alibaba.jar;md5;332d0e5a28640ee88589390ad4a23a39"
     },
     {
-      "key": "配置中心",
-      "name": "👨‍🍳‍配置中心",
+      "key": "玩偶哥哥",
+      "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.43
-      }
-    },
-
-    {
-      "key": "玩偶弹幕版",
-      "name": "👽玩偶┃4K弹幕",
-      "type": 3,
-      "api": "csp_Wogg",
+      "api": "csp_WoGG",
       "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
-        "wogg": true,
-        "danmu": true
-      },
-      "timeout": 10
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
     },
     {
       "key": "阿里合集",
@@ -60,6 +42,7 @@
       "searchable": 1,
       "changeable": 0,
       "filterable": 0,
+      "jar":"./jars/zx0204.jar",
       "ext": {
         "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
         "share": "./json/阿里集合.json"
