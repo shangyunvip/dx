@@ -107,7 +107,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": "./json/阿里集合2.json;file://tvbox/token.txt",
-      "jar":"./zx0204.jar"
+      "jar":"./jars/zx0204.jar"
     },
     {
       "key": "运输车弹幕版",
