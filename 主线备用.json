@@ -186,28 +186,6 @@
         "欧美动漫"
       ]
     },
-    {
-      "key": "csp_量子",
-      "name": "┃量子┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jars/HCCX.jar;md5;fc692ca5f9fa2dfa443f96c37edaa81a",
-      "ext": "./json/量子资源网.json"
-    },
-    {
-      "key": "csp_非凡",
-      "name": "┃非凡┃资源",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jars/HCCX.jar;md5;fc692ca5f9fa2dfa443f96c37edaa81a",
-      "ext": "./json/非凡资源网.json"
-    },
       {
       "key": "乐视采集",
       "name": "🏜️┃乐视采集┃",
