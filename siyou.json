@@ -40,7 +40,7 @@
       "key": "阿里合集",
       "name": "🦋阿里|合集",
       "type": 3,
-      "api": "csp_阿里云集合",
+      "api": "csp_AliShare",
       "searchable": 1,
       "changeable": 0,
       "filterable": 0,
