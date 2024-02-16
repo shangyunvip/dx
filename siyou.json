@@ -91,7 +91,7 @@
       "filterable": 0,
       "ext": {
         "token": "file://tvbox/token.txt",
-        "share": "file://tvbox/阿里集合.json"
+        "share": "./json/阿里集合.json"
       },
       "style": {
         "type": "list"
