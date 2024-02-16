@@ -98,17 +98,6 @@
       },
       "timeout": 10
     },
-        {
-      "key": "阿里云集合zx0204",
-      "name": "🦊阿里集合2", 
-      "type": 3,
-      "api": "csp_阿里云集合",
-      "searchable": 1, 
-      "filterable": 0,
-      "switchable": 0,
-      "ext": "./json/阿里集合2.json;http://127.0.0.1:9978/file/tvbox/token.txt",
-      "jar":"./jars/zx0204.jar"
-    },
     {
       "key": "运输车弹幕版",
       "name": "🚗运输车┃4K弹幕",
@@ -119,7 +108,7 @@
       "changeable": 1,
       "ext": {
         "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
-        "cookie": "file://tvbox/quark_cookie.txt",
+        "cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt",
         "site": "https://www.weixine.net",
         "danmu": true
       },
@@ -135,7 +124,7 @@
       "changeable": 1,
       "ext": {
         "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
-        "cookie": "file://tvbox/quark_cookie.txt",
+        "cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt",
         "danmu": true
       },
       "timeout": 25
@@ -150,7 +139,7 @@
       "filterable": 1,
       "ext": {
         "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
-        "cookie": "file://tvbox/quark_cookie.txt",
+        "cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt",
         "site": "https://ali.lvdoui.top",
         "danmu": true
       },
@@ -166,7 +155,7 @@
       "filterable": 1,
       "ext": {
         "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
-        "cookie": "file://tvbox/quark_cookie.txt",
+        "cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt",
         "site": "http://www.ttkx.live",
         "danmu": true
       },
@@ -182,7 +171,7 @@
       "filterable": 1,
       "ext": {
         "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
-        "cookie": "file://tvbox/quark_cookie.txt",
+        "cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt",
         "danmu": true
       },
       "timeout": 10
@@ -201,7 +190,7 @@
       },
       "ext": {
         "type": "电影#电视剧#动物世界#沙雕动画#帕梅拉#太极拳#广场舞#健身#演唱会",
-        "cookie": "file://tvbox/bili_cookie.txt"
+        "cookie": "http://127.0.0.1:9978/file/tvbox/bili_cookie.txt"
       },
       "timeout": 10
     },
@@ -454,7 +443,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "cookie": "file://tvbox/quark_cookie.txt",
+        "cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt",
         "danmu": true
       },
       "timeout": 10
@@ -468,7 +457,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "cookie": "file://tvbox/quark_cookie.txt",
+        "cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt",
         "danmu": true
       },
       "timeout": 10
@@ -596,7 +585,7 @@
       "changeable": 0,
       "ext": {
         "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
-        "cookie": "file://tvbox/quark_cookie.txt",
+        "cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt",
         "danmu": true
       },
       "timeout": 10
