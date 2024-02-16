@@ -5,7 +5,7 @@
   "spider":"./jars/ok.png",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
-     {"key": "豆瓣","name": "豆瓣热剧","type": 3,"api": "csp_Douban","searchable": 0,"quickSearch": 0,"filterable": 0},
+     {"key": "豆瓣","name": "🧧┃网盘磁力┃公众号：殇云分享🧧2/16","type": 3,"api": "csp_Douban","searchable": 0,"quickSearch": 0,"filterable": 0},
      {"key": "csp_KungFu404","name": "🅰️┃阿里Token┃","type": 3,"api": "csp_KungFu404","searchable": 0,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt","jar": "./jars/alibaba.jar;md5;332d0e5a28640ee88589390ad4a23a39"},
      {"key": "配置中心","name": "👨‍🔧‍┃配置中心┃","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"style": {"type": "rect","ratio": 1.43}},
      {"key": "运输车弹幕版","name": "🚉┃运输车4K┃","type": 3,"api": "csp_Wogg","searchable": 1,"filterable": 1,"changeable": 1,"ext": {
