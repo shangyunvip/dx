@@ -591,35 +591,8 @@
       "timeout": 10
     },
     {
-      "key": "local1",
-      "name": "本地化by影视范",
-      "type": 3,
-      "api": "",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
       "key": "local2",
-      "name": "公️众号:影视范",
-      "type": 3,
-      "api": "",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "local3",
-      "name": "Q频道：本地包",
-      "type": 3,
-      "api": "",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "local4",
-      "name": "本地化0207",
+      "name": "公️众号:殇云分享",
       "type": 3,
       "api": "",
       "searchable": 0,
