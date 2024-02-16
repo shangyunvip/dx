@@ -98,6 +98,17 @@
       },
       "timeout": 10
     },
+        {
+      "key": "阿里云集合zx0204",
+      "name": "🦊阿里集合2", 
+      "type": 3,
+      "api": "csp_阿里云集合",
+      "searchable": 1, 
+      "filterable": 0,
+      "switchable": 0,
+      "ext": "./json/阿里集合2.json;file://tvbox/token.txt",
+      "jar":"./zx0204.jar"
+    },
     {
       "key": "运输车弹幕版",
       "name": "🚗运输车┃4K弹幕",
