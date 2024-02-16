@@ -14,7 +14,7 @@
      //阿里资源区
      {"key": "阿里云集合zx0204","name": "🦊┃阿里集合┃", "type": 3,"api": "csp_阿里云集合","searchable": 1, "filterable": 0,"switchable": 0,
       "jar":"./jars/zx0204.jar","ext": "./json/阿里集合.json;http://127.0.0.1:9978/file/tvbox/token.txt"},
-     {"key": "盘Se","name": "🙀┃盘Se搜索┃","type": 3,"api": "csp_PanSearch","searchable": 1,"filterable": 0,"changeable": 0,"ext": {
+     {"key": "盘Se","name": "🦊┃盘Se搜索┃","type": 3,"api": "csp_PanSearch","searchable": 1,"filterable": 0,"changeable": 0,"ext": {
         "token": "http://127.0.0.1:9978/file/tvbox/token.txt","danmu": true},"timeout": 10},
      {"key": "易搜","name": "😹┃易搜搜索┃","type": 3,"api": "csp_YiSo","searchable": 1,"filterable": 0,"changeable": 0,"ext": {
         "token": "http://127.0.0.1:9978/file/tvbox/token.txt","danmu": true,"cookie": "JSESSIONID=FEAFA3BD405267C378C2455FBAD4A704;satoken=0f065aaa-1b6b-4b9b-9910-83a67fb14da2"},"timeout": 10},
