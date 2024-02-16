@@ -30,7 +30,7 @@
       "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
       "api": "csp_WoGG",
-      "jar": "./jars/fty216.jar;md5;be7060a567ce9e8021946b6de0ed8dae",
+      "jar": "./jars/fty216.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
