@@ -729,7 +729,6 @@
 					"社 区",
 					"有 趣",
 					"英皇体育",
-					"全中文AV在线",
 					"皇冠",
 					"哥哥快来",
 					"美女荷官",
@@ -739,9 +738,7 @@
 			}
 		],
 		"parses":[
-			{"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
-			{"name":"杰森","type":0,"url":"https://jx.jsonplayer.com/player/?url="}, 
-			{"name":"战狼","type":0,"url":"https://jx.zhanlangbu.com/?url="},
+
 
 			{"name":"free","type":0,"url":"https://h5.freejson.xyz/player/?url="}
 		],
