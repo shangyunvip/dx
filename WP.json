@@ -55,7 +55,7 @@
 		{"key":"AList","name":"🛜┃网盘Alist┃","type":3,"api":"csp_AList","searchable":1,"filterable":1,"changeable":1,"ext":"./json/alistjar.json"},
 	
         //饭太硬jar
-        {"key": "csp_AList","name": "┃小雅云盘┃","type": 3,"playerType": 1,"api": "csp_AList","jar": "./jars/fty.jar;md5;5543dae038ce2248e7759e9cbca295b9","searchable": 1,"quickSearch": 1,"filterable": 1,
+        {"key": "csp_AList","name": "🍥┃小雅云盘┃","type": 3,"playerType": 1,"api": "csp_AList","jar": "./jars/fty.jar;md5;5543dae038ce2248e7759e9cbca295b9","searchable": 1,"quickSearch": 1,"filterable": 1,
         "ext": {"vodPic": "https://up.mediy.cn/033_喜欢_adf390021f221477b26a94f5eaf02643.png","drives": [
           {"name": "Ecve","server": "https://pan.ecve.cn/"},
           {"name": "小鸭","server": "https://pan.mediy.cn/"},
@@ -65,8 +65,8 @@
           {"name": "蓼茶","server": "http://175.178.16.226:62494/"},
           {"name": "柯南","server": "https://alist.523.monster/"},
           {"name": "老谭","server": "https://pan.cqtjy.cn/ali"}]}},
-    {"key": "local2","name": "公️众号:┃殇云分享┃","type": 3,"api": "","searchable": 0,"quickSearch": 0,"filterable": 0},
-    {"key": "local3","name": "┃2/18更新┃","type": 3,"api": "","searchable": 0,"quickSearch": 0,"filterable": 0}
+    {"key": "local2","name": "🎢公️众号:┃殇云分享┃","type": 3,"api": "","searchable": 0,"quickSearch": 0,"filterable": 0},
+    {"key": "local3","name": "🎢┃2/18更新┃🎢","type": 3,"api": "","searchable": 0,"quickSearch": 0,"filterable": 0}
 
 	],
 
