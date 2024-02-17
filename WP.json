@@ -12,7 +12,7 @@
 		{"key":"ThunderShare","name":"⛈️┃迅雷云盘┃","type":3,"api":"csp_ThunderShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./json/tokenm.json$$$./txt/thundershare.txt"},
 		{"key":"bili","name":"🅱️┃B站登录┃","type":3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"changeable": 0,
 			"ext":{"type":"演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
-				"cookie":"http://127.0.0.1:9978/file/tvbox/Bili_cookie.txt"}},
+				"cookie":""}},
      
         //阿里资源区
 		{"key":"Wogg","name":"🧸┃玩偶哥哥┃","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./json/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./json/wogg.json"},
