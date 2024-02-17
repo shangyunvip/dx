@@ -28,7 +28,7 @@
 				"ratio": 1.1
 			}
 		},
-		{"key":"QuarkShare","name":"⚧️┃夸克云盘┃","type":3,"api":"csp_QuarkShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./json/tokenm.json$$$./txt/quarkshare.txt"},
+		{"key":"QuarkShare","name":"🕋┃夸克云盘┃","type":3,"api":"csp_QuarkShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./json/tokenm.json$$$./txt/quarkshare.txt"},
 		{"key":"ThunderShare","name":"⛈️┃迅雷云盘┃","type":3,"api":"csp_ThunderShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./json/tokenm.json$$$./txt/thundershare.txt"},
 		{
 			"key":"bili",
@@ -50,22 +50,22 @@
 		{"key":"PanSearch","name":"🦊┃PanSearch┃","type":3,"api":"csp_PanSearch","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./json/tokenm.json"},
 		{"key":"UP云搜","name":"🦊┃UP云搜┃","type":3,"api":"csp_UpYun","timeout":30, "ext":"./json/tokenm.json"}, 
 
-        {"key":"Pan99","name":"⚧️┃盘99网盘┃","type":3,"api":"csp_Pan99","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./json/tokenm.json$$$https://pan99.xyz$$$null$$$1"},
-		{"key":"Hdhive","name":"⚧️┃影巢网盘┃","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./json/tokenm.json$$$null$$$1"},
-		{"key":"Ppxzy","name":"⚧️┃皮皮虾网盘┃","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./json/tokenm.json$$$https://ppxzy.net$$$null$$$1"},
-		{"key":"校长影视","name":"⚧️┃校长影视┃","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./json/tokenm.json$$$https://xzyshd.com$$$null$$$1"},
-		{"key":"团长资源","name":"⚧️┃团长资源┃","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./json/tokenm.json$$$null$$$1"},
-		{"key":"Libvio","name":"⚧️┃LIBVIO网盘┃","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./json/tokenm.json$$$https://www.libvio.pro$$$null"},
-		{"key":"88Pan","name":"⚧️┃88网盘┃","type":3,"api":"csp_EightEight","timeout":30, "ext":"./json/tokenm.json$$$https://662688.xyz"},
+        {"key":"Pan99","name":"🕋┃盘99网盘┃","type":3,"api":"csp_Pan99","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./json/tokenm.json$$$https://pan99.xyz$$$null$$$1"},
+		{"key":"Hdhive","name":"🕋┃影巢网盘┃","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./json/tokenm.json$$$null$$$1"},
+		{"key":"Ppxzy","name":"🕋┃皮皮虾网盘┃","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./json/tokenm.json$$$https://ppxzy.net$$$null$$$1"},
+		{"key":"校长影视","name":"🕋┃校长影视┃","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./json/tokenm.json$$$https://xzyshd.com$$$null$$$1"},
+		{"key":"团长资源","name":"🕋┃团长资源┃","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./json/tokenm.json$$$null$$$1"},
+		{"key":"Libvio","name":"🕋┃LIBVIO网盘┃","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./json/tokenm.json$$$https://www.libvio.pro$$$null"},
+		{"key":"88Pan","name":"🕋┃88网盘┃","type":3,"api":"csp_EightEight","timeout":30, "ext":"./json/tokenm.json$$$https://662688.xyz"},
 		{"key":"盘搜","name":"☯️┃盘搜网盘┃","type":3,"api":"csp_PanSou","timeout":30, "ext":"./json/tokenm.json"},
 		{"key":"易搜","name":"☯️┃易搜网盘┃","type":3,"api":"csp_YiSo","timeout":30, "ext":"./json/tokenm.json$$$./txt/yiso.txt"},
 		{"key":"混合盘","name":"☯️┃混合盘┃","type":3,"api":"csp_HunHePan","timeout":30, "ext":"./json/tokenm.json"},
-		{"key":"秒搜","name":"⚧️┃秒搜网盘┃","type":3,"api":"csp_MiaoSou","timeout":30, "ext":"./json/tokenm.json"},
-		{"key":"Funletu","name":"⚧️┃趣盘搜夸克┃","type":3,"api":"csp_Funletu","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./json/tokenm.json"},
-		{"key":"QuarkPanso","name":"⚧️┃夸克盘搜┃","type":3,"api":"csp_QuarkPanso","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./json/tokenm.json"},
+		{"key":"秒搜","name":"🕋┃秒搜网盘┃","type":3,"api":"csp_MiaoSou","timeout":30, "ext":"./json/tokenm.json"},
+		{"key":"Funletu","name":"🕋┃趣盘搜夸克┃","type":3,"api":"csp_Funletu","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./json/tokenm.json"},
+		{"key":"QuarkPanso","name":"🕋┃夸克盘搜┃","type":3,"api":"csp_QuarkPanso","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./json/tokenm.json"},
 		{"key":"PikaSo","name":"☯️┃皮卡搜网盘┃","type":3,"api":"csp_PikaSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./json/tokenm.json$$$https://www.pikaso.top/$$$null"},
-		{"key":"drpy_js_愛盤搜","name":"⚧️┃爱盘搜夸┃","type":3,"api":"./api/apiv203drpy2.min.js ","ext":"./js/aipanso.js", "quickSearch":1, "changeable":1, "timeout":30},
-		{"key":"4KHDR","name":"⚧️┃4KHDR网盘┃","type":3,"api":"csp_FourKHDR","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./json/tokenm.json$$$./json/4KHDR.json$$$1"},
+		{"key":"drpy_js_愛盤搜","name":"🕋┃爱盘搜夸┃","type":3,"api":"./api/apiv203drpy2.min.js ","ext":"./js/aipanso.js", "quickSearch":1, "changeable":1, "timeout":30},
+		{"key":"4KHDR","name":"🕋┃4KHDR网盘┃","type":3,"api":"csp_FourKHDR","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./json/tokenm.json$$$./json/4KHDR.json$$$1"},
 
 	
 		{
