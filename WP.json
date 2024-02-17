@@ -52,7 +52,7 @@
 		{"key":"BLSGod","name":"🧲┃BLSGod磁┃","type":3,"api":"csp_BLSGod","changeable":1, "timeout":60},
 		{"key":"Xunlei8","name":"🧲┃Xunlei8磁┃","type":3,"api":"csp_Xunlei8","changeable":1, "timeout":60},
 		{"key":"SeedHub","name":"🧲┃SeedHub磁┃","type":3,"api":"csp_SeedHub","changeable":1, "timeout":60},
-		{"key":"AList","name":"🛜┃网盘Alist┃","type":3,"api":"csp_AList","searchable":1,"filterable":1,"changeable":1,"ext":"./json/alistjar.json"},
+		{"key":"AList","name":"🔗┃网盘Alist┃","type":3,"api":"csp_AList","searchable":1,"filterable":1,"changeable":1,"ext":"./json/alistjar.json"},
 	
         //饭太硬jar
         {"key": "csp_AList","name": "🍥┃小雅云盘┃","type": 3,"playerType": 1,"api": "csp_AList","jar": "./jars/fty.jar;md5;5543dae038ce2248e7759e9cbca295b9","searchable": 1,"quickSearch": 1,"filterable": 1,
