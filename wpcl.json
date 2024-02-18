@@ -3,8 +3,9 @@
 	"sites":[
 		{"key": "豆瓣","name": "🧧┃网盘磁力┃公众号：殇云分享🧧维护中","type": 3,"api": "csp_Douban","searchable": 0,"changeable": 1,"indexs":1,"ext": "./json/douban.json"},
 		{"key": "csp_KungFu404","name": "🗂️┃阿里设置┃","type": 3,"api": "csp_KungFu404","searchable":1,"filterable": 0, "changeable":0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt","jar":"./jars/alibaba.jar"},   
-        {"key": "配置中心","name": "夸克🏬配置","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"style": {"type": "rect","ratio": 1},"ext": "./json/PG推送.json"},		
-        {"key":"PikPakShare","name":"🅿️┃PikPak┃","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./json/PG推送.json$$$./json/pikpakclass.json$$$./json/pikpakclass.json.txt.gz"},
+        {"key": "配置中心","name": "🏬┃配置中心┃","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"style": {"type": "rect","ratio": 1},"ext": "./json/PG推送.json"},		
+        {"key":"Ppxzy","name":"☯️┃皮皮虾网盘┃","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./json/PG推送.json$$$https://ppxzy.net$$$null$$$1"},
+
 		{"key":"AliShare","name":"📽️┃阿里影视┃","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"PG推送.json$$$./txt/alishare.txt$$$db$$$1"},
 		{"key":"AliShareEBook","name":"📚┃阿里书籍┃","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, "ext":"PG推送.json$$$./txt/alishare.ebook.txt$$$db$$$1",
 			"style": {"type": "list","ratio": 1.1}
@@ -17,30 +18,28 @@
 		{"key":"Dovx", "name": "🦊┃阿里Dovx┃", "type": 3, "api": "csp_Dovx", "searchable": 1, "quickSearch": 1, "filterable": 0, "timeout":30, "ext":"http://127.0.0.1:9978/file/tvbox/token.txt" },
 		{"key":"PanSearch","name":"🦊┃PanSearch┃","type":3,"api":"csp_PanSearch","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"http://127.0.0.1:9978/file/tvbox/token.txt"},
 		{"key":"UP云搜","name":"🦊┃UP云搜┃","type":3,"api":"csp_UpYun","timeout":30, "ext":"http://127.0.0.1:9978/file/tvbox/token.txt"}, 
-        {"key": "YiSo","name": "🦊┃易搜🔍┃","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt"},
+        {"key": "YiSo","name": "🦊┃易搜🔍┃","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./json/PG推送.json"},
         {"key": "PanSou","name": "🦊┃盘搜🔍┃","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt"},
         {"key": "csp_AliPS","name": "🦊┃喵狸盘搜┃","type": 3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt"
     },
         //夸克网盘区
         {"key":"Pan99","name":"🕋┃盘99网盘┃","type":3,"api":"csp_Pan99","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./json/PG推送.json$$$https://pan99.xyz$$$null$$$1"},
 		{"key":"Hdhive","name":"🕋┃影巢网盘┃","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./json/PG推送.json$$$null$$$1"},
-		{"key":"Ppxzy","name":"🕋┃皮皮虾网盘┃","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./json/PG推送.json$$$https://ppxzy.net$$$null$$$1"},
 		{"key":"校长影视","name":"🕋┃校长影视┃","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./json/PG推送.json$$$https://xzyshd.com$$$null$$$1"},
 		{"key":"团长资源","name":"🕋┃团长资源┃","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./json/PG推送.json$$$null$$$1"},
-		{"key":"Libvio","name":"🕋┃LIBVIO网盘┃","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./json/PG推送.json$$$https://www.libvio.pro$$$null"},
-		{"key":"88Pan","name":"🕋┃88网盘┃","type":3,"api":"csp_EightEight","timeout":30, "ext":"./json/PG推送.json$$$https://662688.xyz"},
-		{"key":"秒搜","name":"🕋┃秒搜网盘┃","type":3,"api":"csp_MiaoSou","timeout":30, "ext":"./json/PG推送.json"},
+		{"key":"Libvio","name":"🕋┃LIBVIO网盘┃","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./json/PG推送.json$$$https://www.libvio.pw$$$null"},
+		{"key":"秒搜","name":"🕋┃秒搜网盘┃","type":3,"api":"csp_MiaoSou","timeout":30, "ext":"./json/PG推送.json$$$https://miaosou.fun$$$null"},
 		{"key":"Funletu","name":"🕋┃趣盘搜夸克┃","type":3,"api":"csp_Funletu","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./json/PG推送.json"},
 		{"key":"QuarkPanso","name":"🕋┃夸克盘搜┃","type":3,"api":"csp_QuarkPanso","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./json/PG推送.json"},
 		{"key":"drpy_js_愛盤搜","name":"🕋┃爱盘搜夸┃","type":3,"api":"./api/apiv203drpy2.min.js ","ext":"./js/aipanso.js", "quickSearch":1, "changeable":1, "timeout":30},
-		{"key":"4KHDR","name":"🕋┃4KHDR网盘┃","type":3,"api":"csp_FourKHDR","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./json/PG推送.json$$$./json/4KHDR.json$$$1"},
         
         //混合网盘区
         {"key":"盘搜","name":"☯️┃盘搜网盘┃","type":3,"api":"csp_PanSou","timeout":30, "ext":"./json/PG推送.json"},
-		{"key":"易搜","name":"☯️┃易搜网盘┃","type":3,"api":"csp_YiSo","timeout":30, "ext":"./json/PG推送.json$$$./txt/yiso.txt"},
+		{"key":"易搜","name":"☯️┃易搜网盘┃","type":3,"api":"csp_YiSo","timeout":30, "ext":"./json/PG推送.json$$$https://yiso.fun$$$null"},
 		{"key":"混合盘","name":"☯️┃混合盘┃","type":3,"api":"csp_HunHePan","timeout":30, "ext":"./json/PG推送.json"},
 		{"key":"PikaSo","name":"☯️┃皮卡搜网盘┃","type":3,"api":"csp_PikaSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./json/PG推送.json$$$https://www.pikaso.top/$$$null"},
-	  
+	  	{"key":"88Pan","name":"☯️┃88网盘┃","type":3,"api":"csp_EightEight","timeout":30, "ext":"./json/PG推送.json$$$https://662688.xyz"},
+
         //磁力资源区
 		{"key": "賤賤","name": "🍵┃荐片┃","type": 3,"api": "csp_Jianpian","searchable": 1,"changeable": 1,"ext": "./json/jianpian.json$$$1","timeout":60},
 		{"key":"drpy_js_美剧迷","name":"🧲┃美剧迷磁┃","type":3,"api":"./api/apiv203drpy2.min.js ","ext":"./js/meijumi.js", "quickSearch":1, "changeable":1, "timeout":60},
@@ -50,7 +49,8 @@
 		{"key":"Xunlei8","name":"🧲┃Xunlei8磁┃","type":3,"api":"csp_Xunlei8","changeable":1, "timeout":60},
 		{"key":"SeedHub","name":"🧲┃SeedHub磁┃","type":3,"api":"csp_SeedHub","changeable":1, "timeout":60},
 		{"key":"AList","name":"🔗┃网盘Alist┃","type":3,"api":"csp_AList","searchable":1,"filterable":1,"changeable":1,"ext":"./json/alistjar.json"},
-	
+	    {"key":"PikPakShare","name":"🅿️┃PikPak┃","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./json/PG推送.json$$$./json/pikpakclass.json$$$./json/pikpakclass.json.txt.gz"},
+
         //饭太硬jar
         {"key": "csp_AList","name": "🍥┃小雅云盘┃","type": 3,"playerType": 1,"api": "csp_AList","jar": "./jars/fty.jar;md5;5543dae038ce2248e7759e9cbca295b9","searchable": 1,"quickSearch": 1,"filterable": 1,
         "ext": {"vodPic": "https://up.mediy.cn/033_喜欢_adf390021f221477b26a94f5eaf02643.png","drives": [
