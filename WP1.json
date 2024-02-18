@@ -21,10 +21,10 @@
 		{"key":"UP云搜","name":"🦊┃UP云搜┃","type":3,"api":"csp_UpYun","timeout":30, "ext":"./json/tokenm.json"}, 
         {"key": "YiSo","name": "🦊┃易搜🔍┃","type": 3,"api": "csp_YiSo","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./json/tokenm.json"},
         {"key": "PanSou","name": "🦊┃盘搜🔍┃","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./json/tokenm.json"},
+		{"key":"Hdhive","name":"🦊┃影巢网盘┃","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./json/tokenm.json$$$null$$$1"},
 
         //夸克网盘区
         {"key":"Pan99","name":"🕋┃盘99网盘┃","type":3,"api":"csp_Pan99","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./json/tokenm.json$$$https://pan99.xyz$$$null$$$1"},
-		{"key":"Hdhive","name":"🕋┃影巢网盘┃","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./json/tokenm.json$$$null$$$1"},
 		{"key":"Ppxzy","name":"🕋┃皮皮虾网盘┃","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./json/tokenm.json$$$https://ppxzy.net$$$null$$$1"},
 		{"key":"校长影视","name":"🕋┃校长影视┃","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./json/tokenm.json$$$https://xzyshd.com$$$null$$$1"},
 		{"key":"团长资源","name":"🕋┃团长资源┃","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"./json/tokenm.json$$$null$$$1"},
