@@ -107,7 +107,18 @@
      {"key": "csp_Bttoo","name": "🎦┃比特直连┃","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"changeable": 1},
      {"key": "csp_SP33","name": "📺┃三三解析┃","type": 3,"api": "csp_SP33","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},   
      {"key": "哔嘀","name": "🎦┃哔嘀💘💘┃","type": 3,"api": "csp_Bdys","jar": "./jars/ogjar.php?id=ou;md5;465f03aa2232d9ab806b2396c6987142","searchable": 1,"quickSearch": 1,"filterable": 1},    
-
+     {"key": "缘来神马","name": "🐛缘来神马","type": 3,"api": "csp_XBPQ","ext": {
+     "分类": "电影&电视剧&综艺&动漫",
+     "分类值":"dy&tv&zy&dm",
+     "二次截取":"class=\"m-movies&&class=\"pagination",
+     "数组":"class=\"u-movie&&</article>",
+     "标题":"<h2>&&</h2>",
+     "副标题":"class=\"zhuangtai*<span>&&</span",
+     "线路数组":"<h3&&</h3>",
+     "线路标题":">&&</strong>",
+     "播放数组":"class=\"playlist&&</div>",
+     "简介":"class=\"abstract-content*>&&</div>",
+     "分类url": "https://ylsm6.cc/haokan/{cateId}-{area}--{class}-----{catePg}---{year}.html"}},        	        
 
 
      {"key": "Czsapp","name": "🎦┃厂长直连┃","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.czzy55.com/"},
