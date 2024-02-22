@@ -386,14 +386,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://atomgit.com/shangyunvip/shangyunvipdc/raw/master/json/%E4%BC%81%E9%B9%85%E4%BD%93%E8%82%B2.json"
+      "ext": "https://raw.gitcode.com/shangyunvip/ysczy/raw/master/lib/%E4%BC%81%E9%B9%85%E4%BD%93%E8%82%B2.json"
     },
         {
       "key": "酷奇js",
       "name": "🎵┃酷奇MV┃",
       "type": 3,
       "api": "./api/apiv203drpy2.min.js",
-      "ext": "https://atomgit.com/shangyunvip/shangyunvipdc/raw/master/js/%E9%85%B7%E5%A5%87MV.js",
+      "ext": "https://raw.gitcode.com/shangyunvip/ysczy/raw/master/js/%E9%85%B7%E5%A5%87MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -437,7 +437,7 @@
       "name": "🐟┃斗鱼直播┃",
       "type": 3,
       "api": "./api/apiv203drpy2.min.js",
-      "ext": "https://atomgit.com/shangyunvip/shangyunvipdc/raw/master/js/斗鱼直播.js",
+      "ext": "https://raw.gitcode.com/shangyunvip/ysczy/raw/master/js/%E6%96%97%E9%B1%BC%E7%9B%B4%E6%92%AD.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
