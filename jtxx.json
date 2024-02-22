@@ -20,7 +20,7 @@
   
   "sites": [
      {"key": "豆瓣","name": "🧧┃公众号：殇云分享┃学习线路🧧2/16","type": 3,"api": "csp_Douban","searchable": 0,"quickSearch": 0,"filterable": 0},
-     {"key":"py_cctv","name": "♍┃CCTV综合┃","type": 3,"api":"py_cctv","jar": "./jars/py1.jar","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://atomgit.com/shangyunvip/shangyunvipdc/raw/master/py/py_cctv.py"},
+     {"key":"py_cctv","name": "♍┃CCTV综合┃","type": 3,"api":"py_cctv","jar": "./jars/py1.jar","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw.gitcode.com/shangyunvip/ysczy/raw/master/py/py_cctv.py"},
      {"key":"m1905","name": "♍┃CCTV电影┃","type": 3,"api":"py_cctv","jar": "./jars/py1.jar","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./py/m1905.py"},
 
      //直播区
@@ -30,7 +30,7 @@
       "name": "🎵┃酷奇MV┃",
       "type": 3,
       "api": "./api/apiv203drpy2.min.js",
-      "ext": "https://atomgit.com/shangyunvip/shangyunvipdc/raw/master/js/%E9%85%B7%E5%A5%87MV.js",
+      "ext": "https://raw.gitcode.com/shangyunvip/ysczy/raw/master/js/%E9%85%B7%E5%A5%87MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -55,7 +55,7 @@
     },
 
      //bibi区
-     {"key": "Bili","name": "🅱️┃哔哔合集┃","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "https://atomgit.com/shangyunvip/shangyunvipdc/raw/master/json/bilibili.json"},
+     {"key": "Bili","name": "🅱️┃哔哔合集┃","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "https://raw.gitcode.com/shangyunvip/ysczy/raw/master/json/bilibili.json"},
      {"key": "Biliych","name": "🅱️┃哔哔歌曲┃","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "./json/biliych.json"},
      {"key": "软件","name": " 🅱️┃软件教程┃","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./json/软件教程.json"},
      {"key": "歌舞","name": "🅱️┃印度歌舞┃","type": 3,
@@ -105,7 +105,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://atomgit.com/shangyunvip/shangyunvipdc/raw/master/json/%E5%93%94%E5%93%A9%E7%BE%8E%E9%A3%9F.json"
+      "ext": "https://raw.gitcode.com/shangyunvip/ysczy/raw/master/json/bilims.json"
     },
     {
       "key": "blqp",
@@ -115,7 +115,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://doget-api.oopscloud.xyz/api/download?token=eyJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vc2hhbmd5dW52aXAvZ2l0aHViL21hc3Rlci9qc29uL2JscXAuanNvbiJ9.2Cu6i6DYsqfZFwa9nRLQ0j8sgPW2mEVM49Aid8LuPKg"
+      "ext": "https://raw.gitcode.com/shangyunvip/ysczy/raw/master/json/biliqipai.json"
     },
      //家庭学习区
      {"key":"小灯塔科学","name":"🌏┃小灯塔科学┃","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/小灯塔科学.json"},
