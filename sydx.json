@@ -101,8 +101,6 @@
      {"key": "77","name": "🕖┃七七App┃","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"changeable": 1},
      {"key": "一起看 ","name": "🈴┃一起App┃","type": 3,"api": "csp_YQKan","searchable": 1,"quickSearch": 1,"changeable": 1},
 
-
-     {"key": "率率","name": "🌸┃率率App┃👨‍🔧","type": 3,"api": "csp_AppLd","playerType": 1,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjSZ1FapovNr0QF4QvEpcoxKYZaFIdGVjVHqOzmh0sHApOErDLDkEnd/fT0RWOxfniO12FgzTJjcg0PGaZSYgk9BKPOkG6SZz0wlkFM9O11CrjANWExcUutLQ=="},     
      {"key": "DiDuan","name": "🎦┃低端直连┃","type": 3,"api": "csp_Ddrk","playerType": "2","searchable": 1,"quickSearch": 1,"changeable": 1},
      {"key": "csp_Bttoo","name": "🎦┃比特直连┃","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"changeable": 1},
      {"key": "csp_SP33","name": "📺┃三三解析┃","type": 3,"api": "csp_SP33","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},   
@@ -366,7 +364,7 @@
      {"key": "csp_Ying","name": "💮┃樱花动漫┃","type": 3,"api": "csp_Ying","searchable": 1,"quickSearch": 1,"changeable": 1},
      {"key": "csp_Ysj","name": "🎀┃异界动漫┃","type": 3,"api": "csp_Ysj","searchable": 1,"quickSearch": 1,"changeable": 1},
      {"key": "csp_Anime1","name": "👺┃日本动漫┃","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"changeable": 1},
-     {"key": "去看吧","name": "👺┃去看动漫┃","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/去看吧.json"},
+     {"key": "去看吧","name": "👺┃去看动漫┃","type": 3,"api": "csp_XBPQ","jar": "./jars/XBPQ新版.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/去看吧.json"},
      //直播区
      {"key": "csp_Yj1211","name": "🧜┃网红直播┃","type": 3,"api": "csp_Yj1211","searchable": 0,"quickSearch": 1,"changeable": 0},
      {"key": "Aid","name": "🚑┃急救教学┃","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8}},
@@ -388,19 +386,15 @@
       "changeable": 0,
       "ext": "https://raw.gitcode.com/shangyunvip/ysczy/raw/master/lib/%E4%BC%81%E9%B9%85%E4%BD%93%E8%82%B2.json"
     },
-        {
-      "key": "酷奇js",
+    {
+      "key": "酷奇MV",
       "name": "🎵┃酷奇MV┃",
       "type": 3,
-      "api": "./api/apiv203drpy2.min.js",
-      "ext": "https://raw.gitcode.com/shangyunvip/ysczy/raw/master/js/%E9%85%B7%E5%A5%87MV.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
+      "api": "csp_XBPQ",
       "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
+      "changeable": 0,
+      "ext": "https://raw.gitcode.com/shangyunvip/ysczy/raw/master/json/%E9%85%B7%E5%A5%87MV.json",
+      "jar": "./jars/XBPQ新版.jar"
     },
     {
       "key": "MTV",
