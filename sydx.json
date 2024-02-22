@@ -79,6 +79,7 @@
       "name": "🧞┃神仙影视┃",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "./jars/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
