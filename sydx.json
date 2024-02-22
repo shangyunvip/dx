@@ -364,7 +364,7 @@
      {"key": "csp_Ying","name": "💮┃樱花动漫┃","type": 3,"api": "csp_Ying","searchable": 1,"quickSearch": 1,"changeable": 1},
      {"key": "csp_Ysj","name": "🎀┃异界动漫┃","type": 3,"api": "csp_Ysj","searchable": 1,"quickSearch": 1,"changeable": 1},
      {"key": "csp_Anime1","name": "👺┃日本动漫┃","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"changeable": 1},
-     {"key": "去看吧","name": "👺┃去看动漫┃","type": 3,"api": "csp_XBPQ","jar": "./jars/XBPQ新版.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/去看吧.json"},
+     {"key": "去看吧","name": "👺┃去看动漫┃","type": 3,"api": "csp_XBPQ","jar": "./jars/XBPQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/去看吧.json"},
      //直播区
      {"key": "csp_Yj1211","name": "🧜┃网红直播┃","type": 3,"api": "csp_Yj1211","searchable": 0,"quickSearch": 1,"changeable": 0},
      {"key": "Aid","name": "🚑┃急救教学┃","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8}},
@@ -394,7 +394,7 @@
       "searchable": 0,
       "changeable": 0,
       "ext": "https://raw.gitcode.com/shangyunvip/ysczy/raw/master/json/%E9%85%B7%E5%A5%87MV.json",
-      "jar": "./jars/XBPQ新版.jar"
+      "jar": "./jars/XBPQ.jar"
     },
     {
       "key": "MTV",
