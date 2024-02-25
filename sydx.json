@@ -108,6 +108,65 @@
                 "体育"
             ]
         },
+       {
+      "key": "HH",
+      "name": "影视 | 豪华资源",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "奇幻片",
+        "恐怖片",
+        "战争片",
+        "悬疑片",
+        "犯罪片",
+        "动画片",
+        "爱情片",
+        "剧情片",
+        "记录片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫",
+        "内地剧",
+        "香港剧",
+        "台湾剧",
+        "日剧",
+        "韩剧",
+        "欧美剧",
+        "马泰剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    },
+     {
+      "key": "无心影视",
+      "name": "影视 | 无心影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jars/XBPQ.jar",
+      "filterable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "分类url:https://www.57mv.cn/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}/,分类:电影$1#电视剧$2#综艺$3#动漫$4#动画片$20#短剧$29"
+    },
+    {
+      "key": "csp_XYQHikerdyx",
+      "name": "影视 | 港湾蓝光",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "./jars/ogjar.php?id=ou;md5;465f03aa2232d9ab806b2396c6987142",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/电影港.json"
+    },
      {"key": "南瓜","name": "🎃┃南瓜App┃","type": 3,"api": "csp_NanGua","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
      {"key": "77","name": "🕖┃七七App┃","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"changeable": 1},
      {"key": "一起看 ","name": "🈴┃一起App┃","type": 3,"api": "csp_YQKan","searchable": 1,"quickSearch": 1,"changeable": 1},
@@ -659,10 +718,25 @@
       "type": 3,
       "url": "Demo"
     },
-    {
-      "name": "神秘的哥哥们",
+        {
+      "name": "解析1",
       "type": 1,
-      "url": "http://api.888484.xyz/神秘哥哥/super.php?v=",
+      "url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url="
+    },
+    {
+      "name": "解析2",
+      "type": 1,
+      "url": "https://vip.mosangkeji.com/api/?key=afcQ0C7vUiNOy4tnvG&url="
+    },
+    {
+      "name": "解析3",
+      "type": 1,
+      "url": "https://jx.xyflv.cc/?url="
+    },
+    {
+      "name": "嗅探1",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -672,28 +746,62 @@
           "奇艺",
           "youku",
           "优酷",
-          "tucheng",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
           "mgtv",
           "芒果",
-          "tnmb",
-          "seven",
-          "yzm",
-          "aliyun",
-          "RJuMao",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
           "bilibili",
-          "1905",
-          "xinvip",
-          "XAL",
-          "qiqi",
-          "XALS",
-          "YuMi-vip"
-        ]
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
       }
     },
+    {
+      "name": "嗅探2",
+      "url": "https://www.ckplayer.vip/jiexi/?url=",
+      "showType": 1
+    },
+    {
+      "name": "嗅探3",
+      "type": 0,
+      "url": "https://www.yemu.xyz/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "嗅探4",
+      "type": 0,
+      "url": "https://xcqq.vip/api/?type=app&key=AYUEMgpSnGJNHbmSNn&url="
+    },
+
         {
       "name": "虾米",
       "type": 0,
@@ -858,7 +966,7 @@
       }
     },
     {
-      "name": "免费分享",
+      "name": "该资源请勿公开放映！",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
