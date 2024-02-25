@@ -110,7 +110,7 @@
         },
        {
       "key": "HH",
-      "name": "影视 | 豪华资源",
+      "name": "🗻┃豪华资源┃",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -147,7 +147,7 @@
     },
      {
       "key": "无心影视",
-      "name": "影视 | 无心影视",
+      "name": "🈚┃无心影视┃",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jars/XBPQ.jar",
@@ -158,7 +158,7 @@
     },
     {
       "key": "csp_XYQHikerdyx",
-      "name": "影视 | 港湾蓝光",
+      "name": "🎢┃港湾蓝光┃",
       "type": 3,
       "api": "csp_XYQHiker",
       "jar": "./jars/ogjar.php?id=ou;md5;465f03aa2232d9ab806b2396c6987142",
