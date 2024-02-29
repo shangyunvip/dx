@@ -539,20 +539,6 @@
       "playerType": "2"
     },
      //bibi区
-		{
-			"key":"bili",
-			"name":"🅱️┃bili登录账号]",
-			"type":3,
-			"api": "csp_Bili",
-            "jar":"./jars/pg.jar",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext":{
-				"type":"演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
-				"cookie":""
-			}
-		},
      {"key": "Bili","name": "🅱️┃哔哔合集┃","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "https://raw.gitcode.com/shangyunvip/ysczy/raw/master/json/bilibili.json"},
      {"key": "Biliych","name": "🅱️┃哔哔歌曲┃","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "./json/biliych.json"},
      {"key": "软件","name": " 🅱️┃软件教程┃","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./json/软件教程.json"},
