@@ -11,22 +11,14 @@
 			"style": {"type": "list","ratio": 1.1}
 		},
                  {
-      "key": "运输车弹幕版",
-      "name": "🚗┃运输车┃4K",
+      "key": "影视车",
+      "name": "🚗┃影视车┃4K",
       "type": 3,
       "api": "csp_Wogg",
-      "jar": "./jars/ogjar.php?id=ou;md5;465f03aa2232d9ab806b2396c6987142",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt",
-        "site": "https://www.weixine.link",
-        "danmu": true
-      },
-      "timeout": 25
-    },
+      "ext":"./json/PG推送.json$$$https://www.weixine.net/$$$null$$$1$$$./json/wogg.json"},
              {"key": "Bili","name": "🅱️┃哔哔合集┃","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "https://raw.gitcode.com/shangyunvip/ysczy/raw/master/json/bilibili.json"},
             {
       "key": "bili",
