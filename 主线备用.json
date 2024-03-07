@@ -1,5 +1,5 @@
 {
-  "spider": "./jars/fty.jar",
+  "spider": "./jars/fty3.7.jar;md5;a0df2c561cdc1fc457ed12595bf8659f",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
  "lives": [ 
      { "name": "综合",
@@ -170,11 +170,13 @@
      {"key": "南瓜","name": "🎃┃南瓜App┃","type": 3,"api": "csp_NanGua","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
      {"key": "77","name": "🕖┃七七App┃","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"changeable": 1},
      {"key": "一起看 ","name": "🈴┃一起App┃","type": 3,"api": "csp_YQKan","searchable": 1,"quickSearch": 1,"changeable": 1},
-
+     {"key": "酷看","name": "💡酷看┃秒播","type": 3,"api": "csp_Kkys","searchable": 1,"quickSearch": 1,"changeable": 1},
      {"key": "DiDuan","name": "🎦┃低端直连┃","type": 3,"api": "csp_Ddrk","playerType": "2","searchable": 1,"quickSearch": 1,"changeable": 1},
      {"key": "csp_Bttoo","name": "🎦┃比特直连┃","type": 3,"api": "csp_Bttwoo","searchable": 1,"quickSearch": 1,"changeable": 1},
      {"key": "csp_SP33","name": "📺┃三三解析┃","type": 3,"api": "csp_SP33","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},   
-     {"key": "哔嘀","name": "🎦┃哔嘀💘💘┃","type": 3,"api": "csp_Bdys","jar": "./jars/ogjar.php?id=ou;md5;465f03aa2232d9ab806b2396c6987142","searchable": 1,"quickSearch": 1,"filterable": 1},    
+     {"key": "嘀嘀","name": "🎦┃嘀嘀💘💘┃","type": 3,"api": "csp_Bdys","searchable": 1,"quickSearch": 1,"changeable": 1},
+     {"key": "追剧","name": "💥追剧┃App","type": 3,"api": "csp_AppTT","playerType": 2,"ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
+     {"key": "zxzj","name": "🍊在线┃外剧","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.zxzja.com/"},
 
 
 
