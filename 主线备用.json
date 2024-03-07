@@ -29,23 +29,7 @@
      {"key": "csp_XYQHikerAL_阿里苏苏","name": "🥝┃阿里苏苏┃4K","type": 3,"api": "csp_XYQHikerAL","jar": "./jars/ogjar.php?id=ou;md5;465f03aa2232d9ab806b2396c6987142","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/alisusu.json"},
      {"key": "csp_XYQHikerAL_影视车","name": "🚆┃影视车🚆┃4K","type": 3,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/yingshiche.json","jar": "./jars/ogjar.php?id=ou;md5;465f03aa2232d9ab806b2396c6987142"},
      {"key": "csp_xpath_yinfans","name": "💥┃音范丝💥┃4K","type": 3,"api": "csp_XPath","jar": "./jars/yfs.png","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/infans.json"},
-         {
-      "key": "运输车弹幕版",
-      "name": "💯运输车【弹幕】4K-HDR",
-      "type": 3,
-      "api": "csp_Wogg",
-      "jar": "./jars/ogjar.php?id=ou;md5;465f03aa2232d9ab806b2396c6987142",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/tvbox/quark_cookie.txt",
-        "site": "https://www.weixine.link",
-        "danmu": true
-      },
-      "timeout": 25
-    },
+
     {
       "key": "快云资源",
       "name": "🦚┃快云超清┃",
