@@ -1,12 +1,12 @@
 {
-  "spider": "./jars/fty3.7.jar;md5;a0df2c561cdc1fc457ed12595bf8659f",
+  "spider": "./fty.jar;md5;dd909349c70fe92e82470eba611b7094",
   "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
  "lives": [ 
      { "name": "综合",
       "type": 0, 
       "url": "./lives/sylive.txt", 
       "playerType": 1, 
-      "ua": "okhttp/3.15", 
+      "ua": "okhttp/3.18", 
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}", 
       "logo": "https://epg.112114.xyz/logo/{name}.png" }, 
       { "name": "IPV6", 
