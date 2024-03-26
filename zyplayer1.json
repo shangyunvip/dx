@@ -283,8 +283,8 @@
   "default":1,
    "data":[
  {
-    "name": "Ray直播",
-    "url": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+    "name": "殇云直播",
+    "url": "https://gitee.com/shangyunvip/yscdx/raw/master/lives/sylive.txt",
     "epg": "http://epg.112114.xyz",
     "isActive": true,
     "id": 1
