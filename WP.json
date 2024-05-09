@@ -1,5 +1,5 @@
 {
-	"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/github/master/jar/pg.jar",
+	"spider":"https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/github/master/jar/pg.jar",
 	"sites":[
 		{"key": "豆瓣","name": "🧧┃网盘磁力┃公众号：殇云分享🧧3/7","type": 3,"api": "csp_Douban","searchable": 0,"changeable": 1,"indexs":1,"ext": "./json/douban.json"},
 		{"key": "csp_KungFu404","name": "🗂️┃阿里设置┃","type": 3,"api": "csp_KungFu404","searchable":1,"filterable": 0, "changeable":0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt","jar":"./jars/alibaba.jar"},   
