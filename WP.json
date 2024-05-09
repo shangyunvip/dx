@@ -4,7 +4,7 @@
 		{"key": "豆瓣","name": "🧧┃网盘磁力┃公众号：殇云分享🧧5/10","type": 3,"api": "csp_Douban","searchable": 0,"changeable": 1,"indexs":1,"ext": "./json/douban.json"},
 		{"key": "csp_KungFu404","name": "🗂️┃阿里设置┃","type": 3,"api": "csp_KungFu404","searchable":1,"filterable": 0, "changeable":0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt","jar":"./jars/alibaba.jar"},   
         {"key": "配置中心","name": "🏬┃配置中心┃","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"style": {"type": "rect","ratio": 1},"ext": "./json/tokenm.json"},	
-		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
+		{"key":"Local","name":"🗂️┃本地┃","type":3,"api":"csp_Local"},
 		{"key":"PushShare","name":"我的资源分享","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./json/tokenm.json$$$./txt/pushshare.txt$$$db$$$1","style": {"type": "list","ratio": 1.1}},
         {"key":"Ppxzy","name":"☯️┃皮皮虾网盘┃","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./json/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"},
 
