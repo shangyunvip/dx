@@ -90,7 +90,7 @@
 			{
 				"name": "live.ipv6",
 				"type": 0,
-				"url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+				"url": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/live/main/tv/m3u/ipv6.m3u",
 				"playerType": 1,
 				"ua": "okhttp/3.15",
 				"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
