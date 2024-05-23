@@ -25,10 +25,10 @@
      {"key": "玩偶","name": "🥝┃玩偶哥哥┃4K","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,
       "ext": {"aliToken": "tvfan/token.txt","quarkCookie": "tvfan/cookie.txt","from": "4k|auto|fhd","siteUrl": "https://www.wogg.link/","danMu": "弹"}},
      {"key":"️玩偶妹","name":"🌺┃玩偶表哥┃4K","type":3,"api":"csp_XYQHikerAL","jar": "./jars/ogjar.php?id=ou;md5;465f03aa2232d9ab806b2396c6987142","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/wom.json"},  
-     {"key":"视觉","name":"👁️┃视觉多线┃","type": 3,"api": "csp_Xinsj","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.80yy3.com/"},
      {"key": "csp_XYQHikerAL_阿里苏苏","name": "🥝┃阿里苏苏┃4K","type": 3,"api": "csp_XYQHikerAL","jar": "./jars/ogjar.php?id=ou;md5;465f03aa2232d9ab806b2396c6987142","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/alisusu.json"},
      {"key": "csp_xpath_yinfans","name": "💥┃音范丝💥┃4K","type": 3,"api": "csp_XPath","jar": "./jars/yfs.png","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/infans.json"},
     //XBPQ区
+         {"key":"csp_视觉","name":"👁️┃视觉┃2K┃","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/XBPQ.jar","ext":"./json/xinshijue.json"},
 	{"key":"XBPQ_黑狐影院","name":"♣️┃黑狐影院┃","type":3,"api":"csp_XBPQ", "jar":"./jars/XBPQ.jar",
 			"ext": {
 				"站名": "黑狐影院",
@@ -465,7 +465,7 @@
       "changeable": 0,
       "ext": "./json/MTV.json"
     },
-
+{"key": "js_a8音乐","name": "🎸A8音乐","type": 3,"api": "./api/apiv203drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./js/a8yy.js"},
 
     {
       "key": "虎牙直播js",
