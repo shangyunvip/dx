@@ -24,9 +24,9 @@
      {"key":"m1905","name": "♍┃CCTV电影┃","type": 3,"api":"py_cctv","jar": "./jars/py1.jar","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw.gitcode.com/shangyunvip/ysczy/raw/master/py/m1905.py"},
      {"key": "玩偶","name": "🥝┃玩偶哥哥┃4K","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,
       "ext": {"aliToken": "tvfan/token.txt","quarkCookie": "tvfan/cookie.txt","from": "4k|auto|fhd","siteUrl": "https://www.wogg.link/","danMu": "弹"}},
-     {"key":"️玩偶妹","name":"🌺┃玩偶妹妹┃4K","type":3,"api":"csp_XYQHikerAL","jar": "./jars/ttkx.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/wom.json"},  
-     {"key": "玩我哥哥","name":"🎦┃玩我哥哥┃4K","type":3,"api":"csp_XYQHikerAL","jar": "./jars/ttkx.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/玩我哥哥,json"},
-{"key": "奈飞影视","name":"🦆┃鸭奈飞秒播┃","type":3,"api":"csp_XYQHiker","jar": "./jars/ttkx.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/ynfys.json"},
+     {"key":"️玩偶妹","name":"🌺┃玩偶妹妹┃4K","type":3,"api":"csp_XYQHikerAL","jar": "./jars/ogjar.php","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/wom.json"},  
+     {"key": "玩我哥哥","name":"🎦┃玩我哥哥┃4K","type":3,"api":"csp_XYQHikerAL","jar": "./jars/ogjar.php","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/玩我哥哥,json"},
+{"key": "奈飞影视","name":"🦆┃鸭奈飞秒播┃","type":3,"api":"csp_XYQHiker","jar": "./jars/ogjar.php","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/ynfys.json"},
      {"key": "csp_XYQHikerAL_阿里苏苏","name": "🥝┃阿里苏苏┃4K","type": 3,"api": "csp_XYQHikerAL","jar": "./jars/ogjar.php?id=ou;md5;465f03aa2232d9ab806b2396c6987142","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/alisusu.json"},
      {"key": "csp_xpath_yinfans","name": "💥┃音范丝💥┃4K","type": 3,"api": "csp_XPath","jar": "./jars/yfs.png","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/infans.json"},
 
