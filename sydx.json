@@ -19,7 +19,7 @@
   
   "sites": [
      {"key": "豆豆","name": "🚝┃豆瓣┃公众号：殇云分享🚝10.16","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
-	 {"key": "csp_KungFu404","name": "🗂️┃阿里设置┃","type": 3,"api": "csp_KungFu404","searchable":1,"filterable": 0, "changeable":0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt","jar":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/shangyunvip/dx/refs/heads/master/jars//alibaba.jar"},   
+	 {"key": "csp_KungFu404","name": "🗂️┃阿里设置┃","type": 3,"api": "csp_KungFu404","searchable":1,"filterable": 0, "changeable":0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt","jar":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/shangyunvip/dx/refs/heads/master/jars/alibaba.jar"},   
      {"key":"py_cctv","name": "♍┃CCTV综合┃","type": 3,"api":"py_cctv","jar": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/shangyunvip/dx/refs/heads/master/jars/py1.jar","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw.gitcode.com/shangyunvip/ysczy/raw/master/py/py_cctv.py"},
      {"key":"m1905","name": "♍┃CCTV电影┃","type": 3,"api":"py_cctv","jar": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/shangyunvip/dx/refs/heads/master/jars/py1.jar","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw.gitcode.com/shangyunvip/ysczy/raw/master/py/m1905.py"},
     
@@ -162,7 +162,13 @@
       ]
     },
 
-     {"key": "南瓜","name": "🎃┃南瓜App┃","type": 3,"api": "csp_NanGua","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
+     {"key": "南瓜","name": "🎃┃南瓜App┃","type": 3,
+      "api": "csp_NanGua",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
      {"key": "苹果","name": "🍎┃苹果不卡┃","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"changeable": 1},
      {"key": "糯米","name": "🍙┃糯米秒播┃","type": 3,"api": "csp_Nmys","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/shangyunvip/dx/refs/heads/master/json/nmys.json"},
      {"key": "小点","name": "💥┃小点多线┃","type": 3,"api": "csp_Xdys","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
@@ -175,7 +181,13 @@
      {"key": "csp_SP33","name": "📺┃三三解析┃","type": 3,"api": "csp_SP33","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},   
      {"key": "嘀嘀","name": "🎦┃嘀嘀💘💘┃","type": 3,"api": "csp_Bdys","searchable": 1,"quickSearch": 1,"changeable": 1},
      {"key": "追剧","name": "💥┃追剧App┃","type": 3,"api": "csp_AppTT","playerType": 2,"ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
-     {"key": "zxzj","name": "🍊┃在线外剧┃","type": 3,"api": "csp_Zxzj","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.zxzja.com/"},
+     {"key": "zxzj","name": "🍊┃在线外剧┃","type": 3,"api": "csp_Zxzj"，
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://www.zxzjhd.com/"
+    },
     {"key": "热播","name": "📺┃热播多线┃","type": 3,"api": "csp_AppTT","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "AO7TcBkd8I/B5wQc4Qma+pU="},
      {"key": "Czsapp","name": "🎦┃厂长直连┃","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://czzy.top/"},
      {"key": "Xinsj","name": "🎦┃视觉直连┃","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.hdmyy.com/"},
@@ -425,7 +437,8 @@
 
      {"key":"csp_AppYsV2_Mxone","name":"🐲┃短剧Mx🐲┃","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/"},
      {"key": "csp_Bili短剧","name": "🐲┃哔哩短剧┃","api": "csp_Bili","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/shangyunvip/dx/refs/heads/master/txt/spider.txt;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16","ext": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/shangyunvip/dx/refs/heads/master/json/Bili短剧.json"},
-      {"key": "短剧","name": "🌈┃上头短剧┃","type": 3,"api": "csp_Djuu","searchable": 1,"quickSearch": 1,"changeable": 1},
+
+	  {"key": "短剧","name": "🌈┃上头短剧┃","type": 3,"api": "csp_Djtt","searchable": 1,"quickSearch": 1,"changeable": 1},
 
      //动漫区
      {"key": "csp_Dm84","name": "🚌┃动漫巴士┃","type": 3,"api": "csp_Dm84","searchable": 1,"quickSearch": 1,"changeable": 1},
