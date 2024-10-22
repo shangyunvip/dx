@@ -1,22 +1,6 @@
 {
   "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/dx/master/jars/fty1016.jar;md5;58d27a91953d4bc6b19dd4046ec3ff8e",
-  "wallpaper": "https://深色壁纸.xxooo.cf/",
- "lives": [ 
-     { "name": "LIVE",
-      "type": 0, 
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/dx/heads/master/lives/sylive.txt", 
-      "playerType": 1, 
-      "ua": "okhttp/3.18", 
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}", 
-      "logo": "https://epg.112114.xyz/logo/{name}.png" }, 
-          {
-      "name": "IPV6",
-      "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-      "playerType": 1
-    }
-  ],
-  
+  "wallpaper": "https://深色壁纸.xxooo.cf/", 
   "sites": [
      {"key": "豆豆","name": "🚝┃豆瓣┃公众号：殇云分享🚝10.16","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 	 {"key": "csp_KungFu404","name": "🗂️┃阿里设置┃","type": 3,"api": "csp_KungFu404","searchable":1,"filterable": 0, "changeable":0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/dx/master/jars/alibaba.jar"},   
