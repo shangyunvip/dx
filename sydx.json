@@ -3,23 +3,10 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/", 
   "sites": [
      {"key": "豆豆","name": "🚝┃豆瓣┃公众号：殇云分享🚝10.16","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
-	 {"key": "csp_KungFu404","name": "🗂️┃阿里设置┃","type": 3,"api": "csp_KungFu404","searchable":1,"filterable": 0, "changeable":0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/dx/master/jars/alibaba.jar"},   
-    {
-      "key": "豆豆",
-      "name": "🚝┃豆瓣┃公众号：殇云分享🚝10.16",
-      "type": 3,
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
      {"key": "csp_KungFu404","name": "🗂️┃阿里设置┃","type": 3,"api": "csp_KungFu404","searchable":1,"filterable": 0, "changeable":0,"ext": "http://127.0.0.1:9978/file/tvbox/token.txt","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/dx/master/jars/alibaba.jar"},   
      {"key":"py_cctv","name": "♍┃CCTV综合┃","type": 3,"api":"py_cctv","jar": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/dx/master/jars/py1.jar","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw.gitcode.com/shangyunvip/dx/raw/master/py/py_cctv.py"},
      {"key":"m1905","name": "♍┃CCTV电影┃","type": 3,"api":"py_cctv","jar": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/dx/master/jars/py1.jar","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw.gitcode.com/shangyunvip/dx/raw/master/py/m1905.py"},
-    
-	  
-	  {"key": "玩偶","name": "🥝┃玩偶哥哥┃4K","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,
-    {
+   {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
