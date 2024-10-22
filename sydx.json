@@ -55,7 +55,7 @@
         "喜剧片",
         "科幻片",
         "奇幻片",
-        "恐怖片",
+        "恐怖片",y
         "战争片",
         "悬疑片",
         "犯罪片",
@@ -529,7 +529,7 @@
     },
 
 //bibi区
-     {"key": "Bili","name": "🅱️┃哔哔合集┃","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/master/json/bilibili.json"},
+     {"key": "Bili","name": "🅱️┃哔哔合集┃","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/github/master/json/bili.json"},
      {"key": "Biliych","name": "🅱️┃哔哔歌曲┃","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/dx/master/json/biliych.json"},
      {"key": "软件","name": " 🅱️┃软件教程┃","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/dx/master/json/软件教程.json"},
      {"key": "歌舞","name": "🅱️┃印度歌舞┃","type": 3,
